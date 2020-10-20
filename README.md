@@ -6,7 +6,7 @@ I'm a Lambda School student studying full stack web development and a contributo
 ### :speech_balloon: - Give meetup talks  
 ### :studio_microphone: - Speak on podcasts  
 
-Examples of my work:
+# Examples of my work:
 
 ## Articles
 
