@@ -1,10 +1,12 @@
-I'm a Lambda School student studying full stack web development and a contributor to RedwoodJS. I'm currently seeking GitHub sponsors to support my work on Open Source. What do I do?
+# Hello! :wave:
 
-## :writing_hand: - Write blog articles  
-## :speech_balloon: - Give meetup talks  
-## :studio_microphone: - Speak on podcasts  
+I'm a Lambda School student studying full stack web development and a contributor to RedwoodJS. I'm currently seeking GitHub sponsors to support my work on Open Source. Your sponsorship will help me spend more time communicating technical topics for developers. What do I do?
 
-Sponsorship would help me spend more time communicating about open source projects. Here are some examples of my work:
+### :writing_hand: - Write blog articles  
+### :speech_balloon: - Give meetup talks  
+### :studio_microphone: - Speak on podcasts  
+
+Examples of my work:
 
 ## Articles
 
