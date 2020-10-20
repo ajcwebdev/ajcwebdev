@@ -1,8 +1,8 @@
 I'm a Lambda School student studying full stack web development and a contributor to RedwoodJS. I'm currently seeking GitHub sponsors to support my work on Open Source. What do I do?
 
-:writing_hand: - Write blog articles  
-:speech_balloon: - Give meetup talks  
-:studio_microphone: - Speak on podcasts  
+## :writing_hand: - Write blog articles  
+## :speech_balloon: - Give meetup talks  
+## :studio_microphone: - Speak on podcasts  
 
 Sponsorship would help me spend more time communicating about open source projects. Here are some examples of my work:
 
