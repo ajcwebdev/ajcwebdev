@@ -1,16 +1,13 @@
-### Hi there 👋
+I'm a Lambda School student studying full stack web development and a contributor to RedwoodJS. I'm currently seeking GitHub sponsors to support my work on Open Source. What do I do?
 
-<!--
-**ajcwebdev/ajcwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:writing_hand: - Write blog articles  
+:speech_balloon: - Give meetup talks  
+:studio_microphone: - Speak on podcasts  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sponsorship would help me spend more time communicating about open source projects. Examples of my work:
+* [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
+* [Building a minimum viable full-stack with RedwoodJS and FaunaDB](https://fauna.com/blog/building-a-minimum-viable-stack-with-redwoodjs-and-faunadb)
+* [Jamstack Denver - A First Look at RedwoodJS w/Anthony Campolo](https://www.youtube.com/watch?v=0krdC_D42IU)
+* [GraphQL Texas - Architecting a Fullstack Jamstack Application with FaunaDB, RedwoodJS, and GraphQL](https://www.youtube.com/watch?v=J-StXLZXG98)
+* [Smashing Podcast - What Is RedwoodJS? with Anthony Campolo](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
+* [Paris Deno - Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)
