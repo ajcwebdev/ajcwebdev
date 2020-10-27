@@ -23,6 +23,7 @@ I'm a Lambda School student studying full stack web development and a contributo
 ### Podcasts
 
 * [Smashing Podcast - What Is RedwoodJS?](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
+* [Fullstack Jamstack Podcast](https://fsjam.org)
 
 # Sponsors
 
