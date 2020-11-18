@@ -10,16 +10,19 @@ I'm a Lambda School student studying full stack web development and a contributo
 
 ### Articles
 
+* [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
+* [Building a Minimum Viable Stack with RedwoodJS and FaunaDB](https://fauna.com/blog/building-a-minimum-viable-stack-with-redwoodjs-and-faunadb)
+* [GraphQL Caching](https://dev.to/ajcwebdev/graphql-caching-42ep)
 * [What's the Status of MongoDB and Prisma2?](https://dev.to/ajcwebdev/what-s-the-status-of-mongodb-and-prisma2-h20)
 * [A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)
 * [A First Look at Elder.js](https://dev.to/ajcwebdev/a-first-look-at-elder-js-part-1-setup-3f92)
-* [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
-* [Building a Minimum Viable Stack with RedwoodJS and FaunaDB](https://fauna.com/blog/building-a-minimum-viable-stack-with-redwoodjs-and-faunadb)
 * [Five Deno Web Frameworks](https://dev.to/ajcwebdev/five-deno-web-frameworks-23k1)
 * [Deno Internal Organization](https://dev.to/ajcwebdev/deno-internal-organization-10mj)
 
 ### Talks
 
+* [Building an App from Scratch with Nuxt.js](https://www.eventbrite.ca/e/learn-how-to-build-an-app-from-scratch-with-nuxtjs-tickets-126604155437)
+* [RedwoodJS and the Universal Deployment Machine](https://www.eventbrite.ca/e/redwoodjs-and-the-universal-deployment-machine-with-anthony-campolo-tickets-126471211799)
 * [A Bootcamp Student’s Contribution to Open Source](https://www.youtube.com/watch?v=yEyz2WXrqdo)
 * [Paris Deno - Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)
 * [GraphQL Texas - Architecting a Fullstack Jamstack Application with FaunaDB, RedwoodJS, and GraphQL](https://www.youtube.com/watch?v=J-StXLZXG98)
