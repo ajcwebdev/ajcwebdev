@@ -21,16 +21,19 @@ I'm a Lambda School student studying full stack web development and a contributo
 
 ### Talks
 
-* [Building an App from Scratch with Nuxt.js](https://www.eventbrite.ca/e/learn-how-to-build-an-app-from-scratch-with-nuxtjs-tickets-126604155437)
-* [RedwoodJS and the Universal Deployment Machine](https://www.eventbrite.ca/e/redwoodjs-and-the-universal-deployment-machine-with-anthony-campolo-tickets-126471211799)
-* [A Bootcamp Student’s Contribution to Open Source](https://www.youtube.com/watch?v=yEyz2WXrqdo)
+* [Learn with Jason - Let's Learn RedwoodJS!](https://www.youtube.com/watch?v=o9JVHmYvs9Q)
+* [VueNYC - Vue 3.0, the Composition API and the Perils of Migration](https://www.meetup.com/vueJsNYC/events/274739702/)
+* [Mintbean - Building an App from Scratch with Nuxt.js](https://www.eventbrite.ca/e/learn-how-to-build-an-app-from-scratch-with-nuxtjs-tickets-126604155437)
+* [Mintbean - RedwoodJS and the Universal Deployment Machine](https://www.eventbrite.ca/e/redwoodjs-and-the-universal-deployment-machine-with-anthony-campolo-tickets-126471211799)
+* [Open Sauced - A Bootcamp Student’s Contribution to Open Source](https://www.youtube.com/watch?v=yEyz2WXrqdo)
 * [Paris Deno - Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)
 * [GraphQL Texas - Architecting a Fullstack Jamstack Application with FaunaDB, RedwoodJS, and GraphQL](https://www.youtube.com/watch?v=J-StXLZXG98)
 * [Jamstack Denver - A First Look at RedwoodJS](https://www.youtube.com/watch?v=0krdC_D42IU)
 
 ### Podcasts
 
-* [Fullstack Jamstack Podcast](https://fsjam.org)
+* [Bringing Fullstack to the Jamstack with Tom Preston-Werner](https://fsjam.org/episodes/episode-4-bringing-fullstack-to-the-jamstack-with-tom-preston-werner)
+* [The David Price and Building Online Communities](https://fsjam.org/episodes/episode-2-the-david-price-and-building-online-communities)
 * [Jamstack Radio - Studying the Stack](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)
 * [Smashing Podcast - What Is RedwoodJS?](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
 
