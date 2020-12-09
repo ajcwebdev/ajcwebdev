@@ -2,7 +2,7 @@
 
 <img src="https://gpvc.arturio.dev/ajcwebdev" alt="profile views"> - <a href="https://twitter.com/intent/follow?screen_name=ajcwebdev&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/ajcwebdev?label=%40ajcwebdev&style=social"></a>
 
-I'm a Lambda School student studying full stack web development and a contributor to RedwoodJS. I'm currently seeking GitHub sponsors to support my work on Open Source. Your sponsorship will help me spend more time communicating technical topics for developers. What do I do?
+I'm a Lambda School student studying full stack web development and Developer Advocate on the RedwoodJS core team. I'm currently seeking GitHub sponsors to support my work on Open Source. Your sponsorship will help me spend more time communicating technical topics for developers. What do I do?
 
 ### :writing_hand: - Write blog articles  
 ### :speech_balloon: - Give meetup talks  
@@ -12,10 +12,12 @@ I'm a Lambda School student studying full stack web development and a contributo
 
 ### Tutorials
 
-* [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
-* [Building a Minimum Viable Stack with RedwoodJS and FaunaDB](https://fauna.com/blog/building-a-minimum-viable-stack-with-redwoodjs-and-faunadb)
 * [A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)
 * [A First Look at Elder.js](https://dev.to/ajcwebdev/a-first-look-at-elder-js-part-1-setup-3f92)
+* [A First Look at Nuxt.js](https://dev.to/ajcwebdev/a-first-look-at-nuxt-js-part-1-setup-2pjg)
+* [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
+* [Building a Minimum Viable Stack with RedwoodJS and FaunaDB](https://fauna.com/blog/building-a-minimum-viable-stack-with-redwoodjs-and-faunadb)
+* [A First Look at Blitz.js](https://dev.to/ajcwebdev/blitz-js-d17)
 
 ### Articles
 
@@ -23,6 +25,9 @@ I'm a Lambda School student studying full stack web development and a contributo
 * [What's the Status of MongoDB and Prisma2?](https://dev.to/ajcwebdev/what-s-the-status-of-mongodb-and-prisma2-h20)
 * [Five Deno Web Frameworks](https://dev.to/ajcwebdev/five-deno-web-frameworks-23k1)
 * [Deno Internal Organization](https://dev.to/ajcwebdev/deno-internal-organization-10mj)
+* [Vue 3.0 and the Dangers of Migration](https://dev.to/ajcwebdev/vue-3-0-and-the-dangers-of-migration-n5i)
+* [Fullstack React](https://dev.to/ajcwebdev/full-stack-react-1ihi)
+* [A Short History of GraphQL](https://dev.to/ajcwebdev/a-short-history-of-graphql-20nb)
 
 ### Talks
 
