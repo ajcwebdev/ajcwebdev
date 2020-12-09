@@ -8,14 +8,17 @@ I'm a Lambda School student studying full stack web development and a contributo
 
 # Examples of my work:
 
-### Articles
+### Tutorials
 
 * [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
 * [Building a Minimum Viable Stack with RedwoodJS and FaunaDB](https://fauna.com/blog/building-a-minimum-viable-stack-with-redwoodjs-and-faunadb)
-* [GraphQL Caching](https://dev.to/ajcwebdev/graphql-caching-42ep)
-* [What's the Status of MongoDB and Prisma2?](https://dev.to/ajcwebdev/what-s-the-status-of-mongodb-and-prisma2-h20)
 * [A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)
 * [A First Look at Elder.js](https://dev.to/ajcwebdev/a-first-look-at-elder-js-part-1-setup-3f92)
+
+### Articles
+
+* [GraphQL Caching](https://dev.to/ajcwebdev/graphql-caching-42ep)
+* [What's the Status of MongoDB and Prisma2?](https://dev.to/ajcwebdev/what-s-the-status-of-mongodb-and-prisma2-h20)
 * [Five Deno Web Frameworks](https://dev.to/ajcwebdev/five-deno-web-frameworks-23k1)
 * [Deno Internal Organization](https://dev.to/ajcwebdev/deno-internal-organization-10mj)
 
