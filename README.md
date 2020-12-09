@@ -32,7 +32,9 @@ I'm a Lambda School student studying full stack web development and a contributo
 
 ### Podcasts
 
+* [Talking Serverless - Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)
 * [Bringing Fullstack to the Jamstack with Tom Preston-Werner](https://fsjam.org/episodes/episode-4-bringing-fullstack-to-the-jamstack-with-tom-preston-werner)
+* [Mintbean and Fullstack Education with Monarch Wadia](https://fsjam.org/episodes/episode-3-monarch-wadia-mintbean-and-fullstack-education)
 * [The David Price and Building Online Communities](https://fsjam.org/episodes/episode-2-the-david-price-and-building-online-communities)
 * [Jamstack Radio - Studying the Stack](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)
 * [Smashing Podcast - What Is RedwoodJS?](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
