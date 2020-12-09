@@ -1,5 +1,7 @@
 # Hello! :wave:
 
+<img src="https://gpvc.arturio.dev/ajcwebdev" alt="profile views"> - <a href="https://twitter.com/intent/follow?screen_name=ajcwebdev&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/ajcwebdev?label=%40ajcwebdev&style=social"></a>
+
 I'm a Lambda School student studying full stack web development and a contributor to RedwoodJS. I'm currently seeking GitHub sponsors to support my work on Open Source. Your sponsorship will help me spend more time communicating technical topics for developers. What do I do?
 
 ### :writing_hand: - Write blog articles  
