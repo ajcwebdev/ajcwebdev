@@ -31,6 +31,8 @@ I'm a Lambda School student studying full stack web development and Developer Ad
 
 ### Talks
 
+* [React Dallas - Developing Fullstack Jamstack Applications with RedwoodJS](https://www.meetup.com/ReactJSDallas/events/mrkxmrybcqblb/)
+* [ReactJAX - A First Look at RedwoodJS](https://www.meetup.com/React-JAX/events/gwdxxqybcqblb/)
 * [Learn with Jason - Let's Learn RedwoodJS!](https://www.youtube.com/watch?v=o9JVHmYvs9Q)
 * [VueNYC - Vue 3.0, the Composition API and the Perils of Migration](https://www.meetup.com/vueJsNYC/events/274739702/)
 * [Mintbean - Building an App from Scratch with Nuxt.js](https://www.eventbrite.ca/e/learn-how-to-build-an-app-from-scratch-with-nuxtjs-tickets-126604155437)
