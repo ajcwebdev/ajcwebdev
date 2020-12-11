@@ -8,6 +8,8 @@ I'm a Lambda School student studying full stack web development and Developer Ad
 ### :speech_balloon: - Give meetup talks  
 ### :studio_microphone: - Speak on podcasts  
 
+![GitHub Stats - ajcwebdev](https://github-readme-stats.vercel.app/api?username=ajcwebdev&hide=stars,issues&count_private=true&show_icons=true)
+
 # Examples of my work:
 
 ### Tutorials
