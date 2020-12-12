@@ -28,7 +28,6 @@ I'm a Lambda School student studying full stack web development and Developer Ad
 * [Five Deno Web Frameworks](https://dev.to/ajcwebdev/five-deno-web-frameworks-23k1)
 * [Deno Internal Organization](https://dev.to/ajcwebdev/deno-internal-organization-10mj)
 * [Vue 3.0 and the Dangers of Migration](https://dev.to/ajcwebdev/vue-3-0-and-the-dangers-of-migration-n5i)
-* [Fullstack React](https://dev.to/ajcwebdev/full-stack-react-1ihi)
 * [A Short History of GraphQL](https://dev.to/ajcwebdev/a-short-history-of-graphql-20nb)
 
 ### Talks
