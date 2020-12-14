@@ -2,7 +2,9 @@
 
 <img src="https://gpvc.arturio.dev/ajcwebdev" alt="profile views"> - <a href="https://twitter.com/intent/follow?screen_name=ajcwebdev&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/ajcwebdev?label=%40ajcwebdev&style=social"></a>
 
-## I'm a full stack web developer and Developer Advocate on the RedwoodJS core team. I'm currently seeking GitHub sponsors to support my work on Open Source. Your sponsorship will help me spend more time communicating technical topics for developers. What do I do?
+## I'm a full stack web developer and Developer Advocate on the RedwoodJS core team
+
+### I'm currently seeking GitHub sponsors to support my work on Open Source. Your sponsorship will help me spend more time communicating technical topics for developers. What do I do?
 
 ### :writing_hand: - Write blog articles  
 ### :speech_balloon: - Give meetup talks  
