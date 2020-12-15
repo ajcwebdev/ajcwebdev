@@ -34,6 +34,7 @@
 
 ### Talks
 
+* [Jamstack OPO - Building Fullstack Jamstack Applications with RedwoodJS](https://www.meetup.com/JAMstack-Porto/events/274767977/)
 * [React Dallas - Developing Fullstack Jamstack Applications with RedwoodJS](https://www.meetup.com/ReactJSDallas/events/mrkxmrybcqblb/)
 * [ReactJAX - A First Look at RedwoodJS](https://www.meetup.com/React-JAX/events/gwdxxqybcqblb/)
 * [Learn with Jason - Let's Learn RedwoodJS!](https://www.youtube.com/watch?v=o9JVHmYvs9Q)
