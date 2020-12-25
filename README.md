@@ -36,7 +36,7 @@
 
 ### Talks
 
-* [JS Monthly - Building Fullstack Jamstack Applications with RedwoodJS](https://www.meetup.com/js-monthly/events/275049211/)
+* [JS Monthly - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=x3NuaErh6vs)
 * [Jamstack OPO - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=RwZ1bWWRJQI)
 * [React Dallas - Developing Fullstack Jamstack Applications with RedwoodJS](https://www.meetup.com/ReactJSDallas/events/mrkxmrybcqblb/)
 * [ReactJAX - A First Look at RedwoodJS](https://www.meetup.com/React-JAX/events/gwdxxqybcqblb/)
@@ -51,6 +51,7 @@
 
 ### Podcasts
 
+* [Blitz.js and Fullstack React with Brandon Bayer](https://fsjam.org/episodes/episode-6-blitz-js-and-fullstack-react-with-brandon-bayer)
 * [Talking Serverless - Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)
 * [Bringing Fullstack to the Jamstack with Tom Preston-Werner](https://fsjam.org/episodes/episode-4-bringing-fullstack-to-the-jamstack-with-tom-preston-werner)
 * [Mintbean and Fullstack Education with Monarch Wadia](https://fsjam.org/episodes/episode-3-monarch-wadia-mintbean-and-fullstack-education)
