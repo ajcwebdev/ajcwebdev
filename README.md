@@ -12,10 +12,6 @@
 ### :speech_balloon: - Give meetup talks  
 ### :studio_microphone: - Speak on podcasts  
 
-![GitHub Stats - ajcwebdev](https://github-readme-stats.vercel.app/api?username=ajcwebdev&hide=stars,issues&count_private=true&show_icons=true)
-
-## Examples of my work:
-
 ### Tutorials
 
 * [A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)
