@@ -36,6 +36,8 @@
 
 ### Talks
 
+* [Mintbean - Optimize your SEO with Elder.js](https://www.youtube.com/watch?v=R-GrUe5fIlg)
+* [Mintbean - Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)
 * [JS Monthly - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=x3NuaErh6vs)
 * [Jamstack OPO - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=RwZ1bWWRJQI)
 * [React Dallas - Developing Fullstack Jamstack Applications with RedwoodJS](https://www.meetup.com/ReactJSDallas/events/mrkxmrybcqblb/)
@@ -51,6 +53,10 @@
 
 ### Podcasts
 
+* [Microsoft Open Source with Kim-Adeline Miguel](https://fsjam.org/episodes/episode-11-microsoft-open-source-with-kim-adeline-miguel)
+* [Nexus and Code-First Schemas with Jason Kuhrt](https://fsjam.org/episodes/episode-10-nexus-and-code-first-schemas-with-jason-kuhrt)
+* [FSJam Roundtable with Chris Ball, Brandon Bayer, and (the) David Price](https://fsjam.org/episodes/episode-8-fsjam-roundtable)
+* [Shipping Web Applications with Dominic Saadi](https://fsjam.org/episodes/episode-7-dominic-saadi)
 * [Blitz.js and Fullstack React with Brandon Bayer](https://fsjam.org/episodes/episode-6-blitz-js-and-fullstack-react-with-brandon-bayer)
 * [Talking Serverless - Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)
 * [Bringing Fullstack to the Jamstack with Tom Preston-Werner](https://fsjam.org/episodes/episode-4-bringing-fullstack-to-the-jamstack-with-tom-preston-werner)
