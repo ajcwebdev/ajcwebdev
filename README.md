@@ -4,9 +4,9 @@
 
 <img src="./header.svg" alt="ajcwebdev-header" />
 
-## I'm a full stack web developer and Developer Advocate on the RedwoodJS core team
+## I'm a Developer Advocate at StepZen as well as the RedwoodJS core team
 
-### I'm currently seeking GitHub sponsors to support my work on Open Source. Your sponsorship will help me spend more time communicating technical topics for developers. What do I do?
+### What do I do?
 
 ### :writing_hand: - Write blog articles  
 ### :speech_balloon: - Give meetup talks  
