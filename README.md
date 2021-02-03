@@ -18,17 +18,6 @@
 * [A First Look at Elder.js](https://dev.to/ajcwebdev/a-first-look-at-elder-js-part-1-setup-3f92)
 * [A First Look at Nuxt.js](https://dev.to/ajcwebdev/a-first-look-at-nuxt-js-part-1-setup-2pjg)
 * [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
-* [Building a Minimum Viable Stack with RedwoodJS and FaunaDB](https://fauna.com/blog/building-a-minimum-viable-stack-with-redwoodjs-and-faunadb)
-* [A First Look at Blitz.js](https://dev.to/ajcwebdev/blitz-js-d17)
-
-### Articles
-
-* [GraphQL Caching](https://dev.to/ajcwebdev/graphql-caching-42ep)
-* [What's the Status of MongoDB and Prisma2?](https://dev.to/ajcwebdev/what-s-the-status-of-mongodb-and-prisma2-h20)
-* [Five Deno Web Frameworks](https://dev.to/ajcwebdev/five-deno-web-frameworks-23k1)
-* [Deno Internal Organization](https://dev.to/ajcwebdev/deno-internal-organization-10mj)
-* [Vue 3.0 and the Dangers of Migration](https://dev.to/ajcwebdev/vue-3-0-and-the-dangers-of-migration-n5i)
-* [A Short History of GraphQL](https://dev.to/ajcwebdev/a-short-history-of-graphql-20nb)
 
 ### Talks
 
@@ -36,8 +25,6 @@
 * [Mintbean - Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)
 * [JS Monthly - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=x3NuaErh6vs)
 * [Jamstack OPO - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=RwZ1bWWRJQI)
-* [React Dallas - Developing Fullstack Jamstack Applications with RedwoodJS](https://www.meetup.com/ReactJSDallas/events/mrkxmrybcqblb/)
-* [ReactJAX - A First Look at RedwoodJS](https://www.meetup.com/React-JAX/events/gwdxxqybcqblb/)
 * [Learn with Jason - Let's Learn RedwoodJS!](https://www.youtube.com/watch?v=o9JVHmYvs9Q)
 * [VueNYC - Vue 3.0, the Composition API and the Perils of Migration](https://www.meetup.com/vueJsNYC/events/274739702/)
 * [Mintbean - Building an App from Scratch with Nuxt.js](https://www.youtube.com/watch?v=6dy88IEvtO8)
@@ -49,15 +36,10 @@
 
 ### Podcasts
 
-* [Microsoft Open Source with Kim-Adeline Miguel](https://fsjam.org/episodes/episode-11-microsoft-open-source-with-kim-adeline-miguel)
-* [Nexus and Code-First Schemas with Jason Kuhrt](https://fsjam.org/episodes/episode-10-nexus-and-code-first-schemas-with-jason-kuhrt)
-* [FSJam Roundtable with Chris Ball, Brandon Bayer, and (the) David Price](https://fsjam.org/episodes/episode-8-fsjam-roundtable)
-* [Shipping Web Applications with Dominic Saadi](https://fsjam.org/episodes/episode-7-dominic-saadi)
-* [Blitz.js and Fullstack React with Brandon Bayer](https://fsjam.org/episodes/episode-6-blitz-js-and-fullstack-react-with-brandon-bayer)
+* [Rails with Jason - RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/rails-with-jason-podcast/anthony-campolo/)
+* [Does Not Compute - RedwoodJS with Anthony Campolo](https://spec.fm/podcasts/does-not-compute/SdKxPhhS)
+* [That's My Jamstack - Anthony Campolo on full-stack serverless frameworks](https://thatsmyjamstack.com/posts/anthony-campolo/)
 * [Talking Serverless - Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)
-* [Bringing Fullstack to the Jamstack with Tom Preston-Werner](https://fsjam.org/episodes/episode-4-bringing-fullstack-to-the-jamstack-with-tom-preston-werner)
-* [Mintbean and Fullstack Education with Monarch Wadia](https://fsjam.org/episodes/episode-3-monarch-wadia-mintbean-and-fullstack-education)
-* [The David Price and Building Online Communities](https://fsjam.org/episodes/episode-2-the-david-price-and-building-online-communities)
 * [Jamstack Radio - Studying the Stack](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)
 * [Smashing Podcast - What Is RedwoodJS?](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
 
