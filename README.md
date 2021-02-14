@@ -4,7 +4,7 @@
 
 <img src="./header.svg" alt="ajcwebdev-header" />
 
-## I'm a Developer Advocate at StepZen as well as the RedwoodJS core team
+## I'm a Developer Advocate at StepZen and a member of the RedwoodJS core team
 
 ### What do I do?
 
