@@ -21,6 +21,9 @@
 
 ### Talks
 
+* [Events.lunch.dev - Using Storybook with Redwood](https://www.youtube.com/watch?v=zYm1a39Lpgs)
+* [Some Antics - Putting RedwoodJS Docs to the Test](https://www.youtube.com/watch?v=ois3P63Yiwc)
+* [GraphQL Denver - Fullstack GraphQL with RedwoodJS and AppSync](https://www.youtube.com/watch?v=v-3yXJ5sLsY)
 * [Mintbean - Optimize your SEO with Elder.js](https://www.youtube.com/watch?v=R-GrUe5fIlg)
 * [Mintbean - Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)
 * [JS Monthly - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=x3NuaErh6vs)
