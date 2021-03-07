@@ -19,32 +19,40 @@
 * [A First Look at Nuxt.js](https://dev.to/ajcwebdev/a-first-look-at-nuxt-js-part-1-setup-2pjg)
 * [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
 
-### Talks
+### RedwoodJS Talks
 
+* [Async - Fullstack Jamstack Development with RedwoodJS](https://asyncjs.com/redwoodjs/)
 * [Events.lunch.dev - Using Storybook with Redwood](https://www.youtube.com/watch?v=zYm1a39Lpgs)
 * [Some Antics - Putting RedwoodJS Docs to the Test](https://www.youtube.com/watch?v=ois3P63Yiwc)
 * [GraphQL Denver - Fullstack GraphQL with RedwoodJS and AppSync](https://www.youtube.com/watch?v=v-3yXJ5sLsY)
-* [Mintbean - Optimize your SEO with Elder.js](https://www.youtube.com/watch?v=R-GrUe5fIlg)
-* [Mintbean - Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)
 * [JS Monthly - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=x3NuaErh6vs)
 * [Jamstack OPO - Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=RwZ1bWWRJQI)
+* [React Dallas - Developing Fullstack Jamstack Applications with RedwoodJS](https://www.meetup.com/ReactJSDallas/events/mrkxmrybcqblb/)
+* [ReactJAX - A First Look at RedwoodJS](https://www.meetup.com/es-ES/React-JAX/events/gwdxxqybcqblb/)
 * [Learn with Jason - Let's Learn RedwoodJS!](https://www.youtube.com/watch?v=o9JVHmYvs9Q)
-* [VueNYC - Vue 3.0, the Composition API and the Perils of Migration](https://www.meetup.com/vueJsNYC/events/274739702/)
-* [Mintbean - Building an App from Scratch with Nuxt.js](https://www.youtube.com/watch?v=6dy88IEvtO8)
 * [Mintbean - RedwoodJS and the Universal Deployment Machine](https://www.youtube.com/watch?v=QHmBRaizvxE)
-* [Open Sauced - A Bootcamp Student’s Contribution to Open Source](https://www.youtube.com/watch?v=yEyz2WXrqdo)
-* [Paris Deno - Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)
 * [GraphQL Texas - Architecting a Fullstack Jamstack Application with FaunaDB, RedwoodJS, and GraphQL](https://www.youtube.com/watch?v=J-StXLZXG98)
 * [Jamstack Denver - A First Look at RedwoodJS](https://www.youtube.com/watch?v=0krdC_D42IU)
 
+### Other Talks
+
+* [Mintbean - Optimize your SEO with Elder.js](https://www.youtube.com/watch?v=R-GrUe5fIlg)
+* [Mintbean - Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)
+* [VueNYC - Vue 3.0, the Composition API and the Perils of Migration](https://www.meetup.com/vueJsNYC/events/274739702/)
+* [Mintbean - Building an App from Scratch with Nuxt.js](https://www.youtube.com/watch?v=6dy88IEvtO8)
+* [Open Sauced - A Bootcamp Student’s Contribution to Open Source](https://www.youtube.com/watch?v=yEyz2WXrqdo)
+* [Paris Deno - Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)
+
 ### Podcasts
 
+* [JavaScript Jabber - RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://devchat.tv/js-jabber/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo/)
+* [Web Rush - RedwoodJS with Anthony Campolo](https://webrush.io/episodes/episode-119-redwood-js-with-anthony-campolo)
 * [Rails with Jason - RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/rails-with-jason-podcast/anthony-campolo/)
 * [Does Not Compute - RedwoodJS with Anthony Campolo](https://spec.fm/podcasts/does-not-compute/SdKxPhhS)
-* [That's My Jamstack - Anthony Campolo on full-stack serverless frameworks](https://thatsmyjamstack.com/posts/anthony-campolo/)
+* [That's My Jamstack - Anthony Campolo on Fullstack Serverless Frameworks](https://thatsmyjamstack.com/posts/anthony-campolo/)
 * [Talking Serverless - Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)
-* [Jamstack Radio - Studying the Stack](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)
-* [Smashing Podcast - What Is RedwoodJS?](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
+* [Jamstack Radio - Studying the Stack with Anthony Campolo](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)
+* [Smashing Podcast - What Is RedwoodJS with Anthony Campolo](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
 
 # Sponsors
 
