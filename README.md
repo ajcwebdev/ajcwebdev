@@ -17,6 +17,8 @@
 * [A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)
 * [A First Look at Elder.js](https://dev.to/ajcwebdev/a-first-look-at-elder-js-part-1-setup-3f92)
 * [A First Look at Nuxt.js](https://dev.to/ajcwebdev/a-first-look-at-nuxt-js-part-1-setup-2pjg)
+* [Five Deno Web Frameworks - Deno HTTP](https://dev.to/ajcwebdev/five-deno-web-frameworks-23k1)
+* [Deno Internal Organization](https://dev.to/ajcwebdev/deno-internal-organization-10mj)
 * [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
 
 ### RedwoodJS Talks
