@@ -14,15 +14,24 @@
 
 ### Tutorials
 
+* [Can I Use MongoDB with Prisma Yet?](https://dev.to/ajcwebdev/can-i-use-mongodb-with-prisma-yet-50go)
+* [A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)
+* [A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)
+* [A First Look at AWS SAM](https://dev.to/ajcwebdev/a-first-look-at-aws-sam-478c)
+* [A First Look at AWS CDK](https://dev.to/ajcwebdev/a-first-look-at-aws-cdk-2036)
+* [A First Look at Cloudflare Workers](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-workers-20km)
+* [A First Look at Cloudflare Pages](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-pages-2a5h)
+* [A First Look at wmr](https://dev.to/ajcwebdev/a-first-look-at-wmr-4b5j)
+* [A First Look at Vite](https://dev.to/ajcwebdev/a-first-look-at-vite-m8n)
+* [A First Look at Snowpack](https://dev.to/ajcwebdev/a-first-look-at-snowpack-3gpb)
 * [A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)
 * [A First Look at Elder.js](https://dev.to/ajcwebdev/a-first-look-at-elder-js-part-1-setup-3f92)
 * [A First Look at Nuxt.js](https://dev.to/ajcwebdev/a-first-look-at-nuxt-js-part-1-setup-2pjg)
-* [Five Deno Web Frameworks - Deno HTTP](https://dev.to/ajcwebdev/five-deno-web-frameworks-23k1)
-* [Deno Internal Organization](https://dev.to/ajcwebdev/deno-internal-organization-10mj)
-* [A First Look at RedwoodJS - Complete Series](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
+* [A First Look at RedwoodJS](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
 
 ### RedwoodJS Talks
 
+* [Jamstack Boston - Architecting Jamstack Applications with GraphQL](https://www.youtube.com/watch?v=rZvNpMv4spE)
 * [Async - Fullstack Jamstack Development with RedwoodJS](https://asyncjs.com/redwoodjs/)
 * [Events.lunch.dev - Using Storybook with Redwood](https://www.youtube.com/watch?v=zYm1a39Lpgs)
 * [Some Antics - Putting RedwoodJS Docs to the Test](https://www.youtube.com/watch?v=ois3P63Yiwc)
@@ -38,6 +47,7 @@
 
 ### Other Talks
 
+* [Mintbean - Intro to GraphQL](https://www.youtube.com/watch?v=xwbi_s6v3sg)
 * [Mintbean - Optimize your SEO with Elder.js](https://www.youtube.com/watch?v=R-GrUe5fIlg)
 * [Mintbean - Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)
 * [VueNYC - Vue 3.0, the Composition API and the Perils of Migration](https://www.meetup.com/vueJsNYC/events/274739702/)
@@ -47,6 +57,8 @@
 
 ### Podcasts
 
+* [Talking Serverless - Anthony Campolo Returns!](https://www.talkingserverless.io/episodes/ep-38%3A-anthony-campolo-returns!)
+* [PodRocket - GraphQL 101 with Anthony Campolo](https://podrocket.logrocket.com/graphql)
 * [JavaScript Jabber - RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://devchat.tv/js-jabber/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo/)
 * [Web Rush - RedwoodJS with Anthony Campolo](https://webrush.io/episodes/episode-119-redwood-js-with-anthony-campolo)
 * [Rails with Jason - RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/rails-with-jason-podcast/anthony-campolo/)
