@@ -14,6 +14,8 @@
 
 ### Tutorials
 
+* [A First Look at the Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)
+* [A First Look at React 18 with Vite and Netlify](https://dev.to/ajcwebdev/a-first-look-at-react-18-with-vite-and-netlify-5411)
 * [Can I Use MongoDB with Prisma Yet?](https://dev.to/ajcwebdev/can-i-use-mongodb-with-prisma-yet-50go)
 * [A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)
 * [A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)
@@ -47,6 +49,7 @@
 
 ### Other Talks
 
+* [Svelte Society Bay Area - Optimize your Site for SEO with Elder.js with Anthony Campolo](https://www.youtube.com/watch?v=Ru5_2spFjQg)
 * [Mintbean - Intro to GraphQL](https://www.youtube.com/watch?v=xwbi_s6v3sg)
 * [Mintbean - Optimize your SEO with Elder.js](https://www.youtube.com/watch?v=R-GrUe5fIlg)
 * [Mintbean - Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)
@@ -57,6 +60,7 @@
 
 ### Podcasts
 
+* [Does Not Compute - Anthony Campolo: Redwood, StepZen, and More](https://spec.fm/podcasts/does-not-compute/FzVJ74U3)
 * [Talking Serverless - Anthony Campolo Returns!](https://www.talkingserverless.io/episodes/ep-38%3A-anthony-campolo-returns!)
 * [PodRocket - GraphQL 101 with Anthony Campolo](https://podrocket.logrocket.com/graphql)
 * [JavaScript Jabber - RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://devchat.tv/js-jabber/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo/)
