@@ -12,7 +12,7 @@
 
 ## Tutorials
 
-I write words to explain things about stuff.
+I write words to explain stuff about things.
 
 ### Frameworks and Build Tools
 
@@ -51,7 +51,7 @@ I write words to explain things about stuff.
 
 ## Podcasts
 
-I say words to explain things about stuff.
+I say words to explain stuff about things.
 
 * [Does Not Compute - Anthony Campolo: Redwood, StepZen, and More](https://spec.fm/podcasts/does-not-compute/FzVJ74U3)
 * [Talking Serverless - Anthony Campolo Returns!](https://www.talkingserverless.io/episodes/ep-38%3A-anthony-campolo-returns!)
@@ -67,7 +67,7 @@ I say words to explain things about stuff.
 
 ## Talks
 
-I say words to explain things about stuff but also with images this time.
+I say words to explain stuff about things but also with images this time.
 
 ### RedwoodJS Talks
 
