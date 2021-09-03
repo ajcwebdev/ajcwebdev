@@ -39,7 +39,7 @@ I write words to explain things about stuff.
 * [A First Look at Deno Deploy](https://dev.to/ajcwebdev/a-first-look-at-deno-deploy-3hmc)
 * [A First Look at Docker](https://dev.to/ajcwebdev/a-first-look-at-docker-3hfg)
 * [A First Look at Azure Functions](https://dev.to/ajcwebdev/a-first-look-at-azure-functions-i6f)
-* [A First Look at the Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)
+* [A First Look at Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)
 * [A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)
 * [A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)
 * [A First Look at AWS SAM](https://dev.to/ajcwebdev/a-first-look-at-aws-sam-478c)
