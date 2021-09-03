@@ -16,34 +16,38 @@ I write words to explain things about stuff.
 
 ### Frameworks and Build Tools
 
-* [A First Look at KeystoneJS](https://dev.to/ajcwebdev/a-first-look-at-keystonejs-267m)
-* [A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)
-* [A First Look at React 18 with Vite and Netlify](https://dev.to/ajcwebdev/a-first-look-at-react-18-with-vite-and-netlify-5411)
-* [A First Look at Remix](https://dev.to/ajcwebdev/a-first-look-at-remix-2cp1)
-* [A First Look at wmr](https://dev.to/ajcwebdev/a-first-look-at-wmr-4b5j)
-* [A First Look at Vite](https://dev.to/ajcwebdev/a-first-look-at-vite-m8n)
-* [A First Look at Snowpack](https://dev.to/ajcwebdev/a-first-look-at-snowpack-3gpb)
-* [A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)
-* [A First Look at Elder.js](https://dev.to/ajcwebdev/a-first-look-at-elder-js-part-1-setup-3f92)
-* [A First Look at Nuxt.js](https://dev.to/ajcwebdev/a-first-look-at-nuxt-js-part-1-setup-2pjg)
-* [A First Look at RedwoodJS](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
+|Blog|Repo|
+|----|----|
+|[A First Look at KeystoneJS](https://dev.to/ajcwebdev/a-first-look-at-keystonejs-267m)|[Repo](https://github.com/ajcwebdev/ajcwebdev-keystone)|
+|[A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)|[Repo](https://github.com/ajcwebdev/ajcwebdev-slinkity)|
+|[A First Look at React 18 with Vite and Netlify](https://dev.to/ajcwebdev/a-first-look-at-react-18-with-vite-and-netlify-5411)|[Repo](https://github.com/ajcwebdev/ajcwebdev-react18)|
+|[A First Look at Remix](https://dev.to/ajcwebdev/a-first-look-at-remix-2cp1)|TODO|
+|[A First Look at wmr](https://dev.to/ajcwebdev/a-first-look-at-wmr-4b5j)|TODO|
+|[A First Look at Vite](https://dev.to/ajcwebdev/a-first-look-at-vite-m8n)|[Repo](https://github.com/ajcwebdev/ajcwebdev-vite)|
+|[A First Look at Snowpack](https://dev.to/ajcwebdev/a-first-look-at-snowpack-3gpb)|[Repo](https://github.com/ajcwebdev/ajcwebdev-snowpack)|
+|[A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)|TODO|
+|[A First Look at Elder.js](https://dev.to/ajcwebdev/a-first-look-at-elder-js-part-1-setup-3f92)|[Repo](https://github.com/ajcwebdev/ajcwebdev-elder)|
+|[A First Look at Nuxt.js](https://dev.to/ajcwebdev/a-first-look-at-nuxt-js-part-1-setup-2pjg)|[Repo](https://github.com/ajcwebdev/ajcwebdev-nuxt)|
+|[A First Look at RedwoodJS](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)|[Repo](https://github.com/ajcwebdev/ajcwebdev-redwood)|
 
 ### Deployment and DevOps
 
-* [A First Look at Serverless Cloud](https://dev.to/ajcwebdev/a-first-look-at-serverless-cloud-3e18)
-* [A First Look at Fly](https://dev.to/ajcwebdev/a-first-look-at-fly-3a87)
-* [A First Look at GitHub Actions](https://dev.to/ajcwebdev/a-first-look-at-github-actions-1j9d)
-* [A First Look at PostGraphile with Railway](https://dev.to/ajcwebdev/a-first-look-at-postgraphile-with-railway-1k9d)
-* [A First Look at Deno Deploy](https://dev.to/ajcwebdev/a-first-look-at-deno-deploy-3hmc)
-* [A First Look at Docker](https://dev.to/ajcwebdev/a-first-look-at-docker-3hfg)
-* [A First Look at Azure Functions](https://dev.to/ajcwebdev/a-first-look-at-azure-functions-i6f)
-* [A First Look at Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)
-* [A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)
-* [A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)
-* [A First Look at AWS SAM](https://dev.to/ajcwebdev/a-first-look-at-aws-sam-478c)
-* [A First Look at AWS CDK](https://dev.to/ajcwebdev/a-first-look-at-aws-cdk-2036)
-* [A First Look at Cloudflare Workers](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-workers-20km)
-* [A First Look at Cloudflare Pages](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-pages-2a5h)
+|Blog|Repo|
+|----|----|
+|[A First Look at Serverless Cloud](https://dev.to/ajcwebdev/a-first-look-at-serverless-cloud-3e18)|[Repo](https://github.com/ajcwebdev/ajcwebdev-serverless-cloud)|
+|[A First Look at Fly](https://dev.to/ajcwebdev/a-first-look-at-fly-3a87)|[Repo](https://github.com/ajcwebdev/ajcwebdev-fly)|
+|[A First Look at GitHub Actions](https://dev.to/ajcwebdev/a-first-look-at-github-actions-1j9d)|[Repo](https://github.com/ajcwebdev/ajcwebdev-actions)|
+|[A First Look at PostGraphile with Railway](https://dev.to/ajcwebdev/a-first-look-at-postgraphile-with-railway-1k9d)|TODO|
+|[A First Look at Deno Deploy](https://dev.to/ajcwebdev/a-first-look-at-deno-deploy-3hmc)|[Repo](https://github.com/ajcwebdev/ajcwebdev-deno)|
+|[A First Look at Docker](https://dev.to/ajcwebdev/a-first-look-at-docker-3hfg)|[Repo](https://github.com/ajcwebdev/ajcwebdev-docker)|
+|[A First Look at Azure Functions](https://dev.to/ajcwebdev/a-first-look-at-azure-functions-i6f)|TODO|
+|[A First Look at Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)|[Repo](https://github.com/ajcwebdev/ajcwebdev-serverless)|
+|[A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)|[Repo](https://github.com/ajcwebdev/ajcwebdev-architect)|
+|[A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)|[Repo](https://github.com/ajcwebdev/ajcwebdev-amplify)|
+|[A First Look at AWS SAM](https://dev.to/ajcwebdev/a-first-look-at-aws-sam-478c)|[Repo](https://github.com/ajcwebdev/ajcwebdev-sam)|
+|[A First Look at AWS CDK](https://dev.to/ajcwebdev/a-first-look-at-aws-cdk-2036)|[Repo](https://github.com/ajcwebdev/ajcwebdev-cdk)|
+|[A First Look at Cloudflare Workers](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-workers-20km)|[Repo](https://github.com/ajcwebdev/ajcwebdev-workers)|
+|[A First Look at Cloudflare Pages](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-pages-2a5h)|[Repo](https://github.com/ajcwebdev/redwood-cloudflare-pages)|
 
 ## Podcasts
 
