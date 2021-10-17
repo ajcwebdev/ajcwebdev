@@ -22,6 +22,8 @@ I write words to explain stuff about things.
 
 |Blog|Repo|
 |----|----|
+|[A First Look at Nuxt 3](https://dev.to/ajcwebdev/a-first-look-at-nuxt-3-1769)|[Repo](https://github.com/ajcwebdev/ajcwebdev-nuxt3)|
+|[A First Look at GraphQL Helix](https://dev.to/ajcwebdev/a-first-look-at-graphql-helix-1db3)|[Repo](https://github.com/ajcwebdev/ajcwebdev-graphql-helix)|
 |[A First Look at KeystoneJS](https://dev.to/ajcwebdev/a-first-look-at-keystonejs-267m)|[Repo](https://github.com/ajcwebdev/ajcwebdev-keystone)|
 |[A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)|[Repo](https://github.com/ajcwebdev/ajcwebdev-slinkity)|
 |[A First Look at React 18 with Vite and Netlify](https://dev.to/ajcwebdev/a-first-look-at-react-18-with-vite-and-netlify-5411)|[Repo](https://github.com/ajcwebdev/ajcwebdev-react18)|
@@ -38,6 +40,9 @@ I write words to explain stuff about things.
 
 |Blog|Repo|
 |----|----|
+|[A First Look at Pulumi](https://dev.to/ajcwebdev/a-first-look-at-pulumi-4h3l)|[Repo](https://github.com/ajcwebdev/ajcwebdev-pulumi)|
+|[A First Look at Qovery](https://dev.to/ajcwebdev/a-first-look-at-qovery-4897)|[Repo](https://github.com/ajcwebdev/ajcwebdev-qovery)|
+|[A First Look at AWS Fargate](https://dev.to/ajcwebdev/a-first-look-at-aws-fargate-395f)|TODO|
 |[A First Look at Serverless Cloud](https://dev.to/ajcwebdev/a-first-look-at-serverless-cloud-3e18)|[Repo](https://github.com/ajcwebdev/ajcwebdev-serverless-cloud)|
 |[A First Look at Fly](https://dev.to/ajcwebdev/a-first-look-at-fly-3a87)|[Repo](https://github.com/ajcwebdev/ajcwebdev-fly)|
 |[A First Look at GitHub Actions](https://dev.to/ajcwebdev/a-first-look-at-github-actions-1j9d)|[Repo](https://github.com/ajcwebdev/ajcwebdev-actions)|
