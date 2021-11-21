@@ -76,7 +76,7 @@ I say words to explain stuff about things.
 |[Jamstack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)|[Studying the Stack with Anthony Campolo](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)|
 |[Smashing Podcast](https://podcast.smashingmagazine.com/)|[What Is RedwoodJS with Anthony Campolo](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)|
 
-## Talks
+## Videos
 
 I say words to explain stuff about things but also with images this time.
 
@@ -110,6 +110,16 @@ I say words to explain stuff about things but also with images this time.
 |Mintbean|[Building an App from Scratch with Nuxt.js](https://www.youtube.com/watch?v=6dy88IEvtO8)|
 |Open Sauced|[A Bootcamp Student’s Contribution to Open Source](https://www.youtube.com/watch?v=yEyz2WXrqdo)|
 |Paris Deno|[Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)|
+
+### StepZen Streams
+
+|Guest|Episode|
+|-----|-------|
+|Alex Trost|[Connecting to Prismic's REST API with StepZen](https://www.youtube.com/watch?v=69MtoZrvKts)|
+|Ben Holmes|[Bringing Dynamic Content to Static 11ty Sites with Slinkity and GraphQL](https://www.youtube.com/watch?v=Od-xAgNaDdY)|
+|Paul Copplestone|[Techniques for Connecting to a PostgreSQL Database with StepZen and Supabase](https://www.youtube.com/watch?v=sBEFTfUfxbk)|
+|Facundo Giuliani|[How to mix data from Storyblok CMS with your own project using StepZen](https://www.youtube.com/watch?v=gDxYEUIzRMQ)|
+|Greg Schier|[Deploying Railway Applications](https://www.youtube.com/watch?v=nFu_WgudLlY)|
 
 # Sponsors
 
