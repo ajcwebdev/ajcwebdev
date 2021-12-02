@@ -22,12 +22,14 @@ I write words to explain stuff about things.
 
 |Blog|Repo|
 |----|----|
+|[A First Look at Astro](https://dev.to/ajcwebdev/a-first-look-at-astro-2937)|[Repo](https://github.com/ajcwebdev/ajcwebdev-astro)|
+|[A First Look at Oak](https://dev.to/ajcwebdev/a-first-look-at-oak-2gob)|[Repo](https://github.com/ajcwebdev/ajcwebdev-oak)|
 |[A First Look at Nuxt 3](https://dev.to/ajcwebdev/a-first-look-at-nuxt-3-1769)|[Repo](https://github.com/ajcwebdev/ajcwebdev-nuxt3)|
 |[A First Look at GraphQL Helix](https://dev.to/ajcwebdev/a-first-look-at-graphql-helix-1db3)|[Repo](https://github.com/ajcwebdev/ajcwebdev-graphql-helix)|
 |[A First Look at KeystoneJS](https://dev.to/ajcwebdev/a-first-look-at-keystonejs-267m)|[Repo](https://github.com/ajcwebdev/ajcwebdev-keystone)|
 |[A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)|[Repo](https://github.com/ajcwebdev/ajcwebdev-slinkity)|
 |[A First Look at React 18 with Vite and Netlify](https://dev.to/ajcwebdev/a-first-look-at-react-18-with-vite-and-netlify-5411)|[Repo](https://github.com/ajcwebdev/ajcwebdev-react18)|
-|[A First Look at Remix](https://dev.to/ajcwebdev/a-first-look-at-remix-2cp1)|TODO|
+|[A First Look at Remix](https://dev.to/ajcwebdev/a-first-look-at-remix-2cp1)|[Repo](https://github.com/ajcwebdev/ajcwebdev-remix)|
 |[A First Look at wmr](https://dev.to/ajcwebdev/a-first-look-at-wmr-4b5j)|TODO|
 |[A First Look at Vite](https://dev.to/ajcwebdev/a-first-look-at-vite-m8n)|[Repo](https://github.com/ajcwebdev/ajcwebdev-vite)|
 |[A First Look at Snowpack](https://dev.to/ajcwebdev/a-first-look-at-snowpack-3gpb)|[Repo](https://github.com/ajcwebdev/ajcwebdev-snowpack)|
@@ -49,7 +51,7 @@ I write words to explain stuff about things.
 |[A First Look at PostGraphile with Railway](https://dev.to/ajcwebdev/a-first-look-at-postgraphile-with-railway-1k9d)|TODO|
 |[A First Look at Deno Deploy](https://dev.to/ajcwebdev/a-first-look-at-deno-deploy-3hmc)|[Repo](https://github.com/ajcwebdev/ajcwebdev-deno)|
 |[A First Look at Docker](https://dev.to/ajcwebdev/a-first-look-at-docker-3hfg)|[Repo](https://github.com/ajcwebdev/ajcwebdev-docker)|
-|[A First Look at Azure Functions](https://dev.to/ajcwebdev/a-first-look-at-azure-functions-i6f)|TODO|
+|[A First Look at Azure Functions](https://dev.to/ajcwebdev/a-first-look-at-azure-functions-i6f)|[Repo](https://github.com/ajcwebdev/ajcwebdev-azure)|
 |[A First Look at Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)|[Repo](https://github.com/ajcwebdev/ajcwebdev-serverless)|
 |[A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)|[Repo](https://github.com/ajcwebdev/ajcwebdev-architect)|
 |[A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)|[Repo](https://github.com/ajcwebdev/ajcwebdev-amplify)|
