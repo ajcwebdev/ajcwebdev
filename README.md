@@ -70,7 +70,7 @@ I say words to explain stuff about things.
 |[Does Not Compute](https://dnc.show/)|[Anthony Campolo: Redwood, StepZen, and More](https://spec.fm/podcasts/does-not-compute/FzVJ74U3)|
 |[Talking Serverless](https://www.talkingserverless.io/)|[Anthony Campolo Returns!](https://www.talkingserverless.io/episodes/ep-38%3A-anthony-campolo-returns!)|
 |[PodRocket](https://podrocket.logrocket.com/)|[GraphQL 101 with Anthony Campolo](https://podrocket.logrocket.com/graphql)|
-|[JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)|[RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://devchat.tv/js-jabber/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo/)|
+|[JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)|[RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://javascriptjabber.com/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo)|
 |[Web Rush](https://webrush.io/)|[RedwoodJS with Anthony Campolo](https://webrush.io/episodes/episode-119-redwood-js-with-anthony-campolo)|
 |[Rails with Jason](https://www.codewithjason.com/rails-with-jason-podcast/)|[RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/rails-with-jason-podcast/anthony-campolo/)|
 |[Does Not Compute](https://dnc.show/)|[RedwoodJS with Anthony Campolo](https://spec.fm/podcasts/does-not-compute/SdKxPhhS)|
