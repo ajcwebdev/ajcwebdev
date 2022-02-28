@@ -72,10 +72,10 @@ I say words to explain stuff about things.
 |[PodRocket](https://podrocket.logrocket.com/)|[GraphQL 101 with Anthony Campolo](https://podrocket.logrocket.com/graphql)|
 |[JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)|[RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://javascriptjabber.com/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo)|
 |[Web Rush](https://webrush.io/)|[RedwoodJS with Anthony Campolo](https://webrush.io/episodes/episode-119-redwood-js-with-anthony-campolo)|
-|[Rails with Jason](https://www.codewithjason.com/rails-with-jason-podcast/)|[RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/rails-with-jason-podcast/anthony-campolo/)|
+|[Rails with Jason](https://www.codewithjason.com/rails-with-jason-podcast/)|[RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/podcast/9478234-081-redwoodjs-with-anthony-campolo-redwoodjs-core-advocate/)|
 |[Does Not Compute](https://dnc.show/)|[RedwoodJS with Anthony Campolo](https://spec.fm/podcasts/does-not-compute/SdKxPhhS)|
 |[That's My Jamstack](https://thatsmyjamstack.com/)|[Anthony Campolo on Fullstack Serverless Frameworks](https://thatsmyjamstack.com/posts/anthony-campolo/)|
-|[Talking Serverless](https://www.talkingserverless.io/)|[Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)|
+|[Talking Serverless](https://www.talkingserverless.io/)|[Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/episodes/ep-30%3A-anthony-campolo-redwoodjs-contributor)|
 |[Jamstack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)|[Studying the Stack with Anthony Campolo](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)|
 |[Smashing Podcast](https://podcast.smashingmagazine.com/)|[What Is RedwoodJS with Anthony Campolo](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)|
 
