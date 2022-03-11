@@ -30,10 +30,8 @@ I write words to explain stuff about things.
 |[A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)|[Repo](https://github.com/ajcwebdev/ajcwebdev-slinkity)|
 |[A First Look at React 18 with Vite and Netlify](https://dev.to/ajcwebdev/a-first-look-at-react-18-with-vite-and-netlify-5411)|[Repo](https://github.com/ajcwebdev/ajcwebdev-react18)|
 |[A First Look at Remix](https://dev.to/ajcwebdev/a-first-look-at-remix-2cp1)|[Repo](https://github.com/ajcwebdev/ajcwebdev-remix)|
-|[A First Look at wmr](https://dev.to/ajcwebdev/a-first-look-at-wmr-4b5j)|TODO|
 |[A First Look at Vite](https://dev.to/ajcwebdev/a-first-look-at-vite-m8n)|[Repo](https://github.com/ajcwebdev/ajcwebdev-vite)|
-|[A First Look at Snowpack](https://dev.to/ajcwebdev/a-first-look-at-snowpack-3gpb)|[Repo](https://github.com/ajcwebdev/ajcwebdev-snowpack)|
-|[A First Look at Svelte-Kit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)|TODO|
+|[A First Look at SvelteKit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)|TODO|
 |[A First Look at Nuxt.js](https://dev.to/ajcwebdev/a-first-look-at-nuxt-js-part-1-setup-2pjg)|[Repo](https://github.com/ajcwebdev/ajcwebdev-nuxt)|
 |[A First Look at RedwoodJS](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)|[Repo](https://github.com/ajcwebdev/ajcwebdev-redwood)|
 
