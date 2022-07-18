@@ -191,7 +191,7 @@ I say words to explain stuff about things but also with images this time.
   | --------------------------- | ------------------------------------------------------------------------------------------------------------- |
   | Some Antics                 | [Deploy a Site to the Decentralized Web with IPFS](https://www.youtube.com/watch?v=GJQZkm2ut0E)               |
   | Teach Jenn Tech             | [Deploy a React App with Vite and Vercel](https://www.youtube.com/watch?v=bU-zAAd5FyM)                        |
-  | The Jamstack Goes Fullstack | [The Jamstack Goes Fullstack](https://www.youtube.com/watch?v=1bYvPcCkbBI)                                    |
+  | Jamstack Seatle             | [The Jamstack Goes Fullstack](https://www.youtube.com/watch?v=1bYvPcCkbBI)                                    |
   | Some Antics                 | [Building APIs with Deno and Oak](https://www.youtube.com/watch?v=ssosKWNIcwM)                                |
   | Some Antics                 | [Vite and the Next Generation of Frontend Tooling](https://www.youtube.com/watch?v=gRzWZpRmkv0)               |
   | Svelte Society Bay Area     | [Optimize your Site for SEO with Elder.js with Anthony Campolo](https://www.youtube.com/watch?v=Ru5_2spFjQg)  |
