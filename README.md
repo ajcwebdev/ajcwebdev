@@ -16,6 +16,7 @@ I'm a Developer Advocate at [QuickNode](https://www.quicknode.com/), a member of
   * [Deployment and DevOps](#deployment-and-devops)
 * [Podcasts](#podcasts)
 * [Videos](#videos)
+  * [Web3](#web3)
   * [RedwoodJS](#redwoodjs)
   * [StepZen](#stepzen)
   * [Other Talks](#other-talks)
@@ -174,14 +175,13 @@ I say words to explain stuff about things but also with images this time.
   | Location                    | Talk                                                                                                          |
   | --------------------------- | ------------------------------------------------------------------------------------------------------------- |
   | Teach Jenn Tech             | [Deploy a React App with Vite and Vercel](https://www.youtube.com/watch?v=bU-zAAd5FyM)                        |
-  | Some Antics                 | [Building APIs with Deno and Oak](https://www.youtube.com/watch?v=ssosKWNIcwM)                                |
   | The Jamstack Goes Fullstack | [The Jamstack Goes Fullstack](https://www.youtube.com/watch?v=1bYvPcCkbBI)                                    |
+  | Some Antics                 | [Building APIs with Deno and Oak](https://www.youtube.com/watch?v=ssosKWNIcwM)                                |
   | Some Antics                 | [Vite and the Next Generation of Frontend Tooling](https://www.youtube.com/watch?v=gRzWZpRmkv0)               |
-  | Svelte Society Bay Area     | [Optimize your Site for SEO with Elder.js with Anthony Campolo](https://www.youtube.com/watch?v=Ru5_2spFjQg)  |
   | Mintbean                    | [Intro to GraphQL](https://www.youtube.com/watch?v=xwbi_s6v3sg)                                               |
+  | Svelte Society Bay Area     | [Optimize your Site for SEO with Elder.js with Anthony Campolo](https://www.youtube.com/watch?v=Ru5_2spFjQg)  |
   | Mintbean                    | [Optimize your SEO with Elder.js](https://www.youtube.com/watch?v=R-GrUe5fIlg)                                |
   | Mintbean                    | [Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)                                 |
-  | VueNYC                      | [Vue 3.0, the Composition API and the Perils of Migration](https://www.meetup.com/vueJsNYC/events/274739702/) |
   | Mintbean                    | [Building an App from Scratch with Nuxt.js](https://www.youtube.com/watch?v=6dy88IEvtO8)                      |
   | Open Sauced                 | [A Bootcamp Student’s Contribution to Open Source](https://www.youtube.com/watch?v=yEyz2WXrqdo)               |
   | Paris Deno                  | [Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)                                        |
