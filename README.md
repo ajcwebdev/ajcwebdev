@@ -85,33 +85,53 @@ I say words to explain stuff about things.
 <details>
   <summary>Click to see podcasts</summary><br>
 
-  | Show                                                                        | Episode                                                                                                                                                                   |
-  | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | [JavaScript Jam](https://www.javascriptjam.com/)                            | [RedwoodJS: The JS App Framework](https://www.youtube.com/watch?v=QubWxw4hl_A)                                                                                            |
-  | [Does Not Compute](https://dnc.show/)                                       | [Anthony Campolo: Redwood, StepZen, and More](https://spec.fm/podcasts/does-not-compute/FzVJ74U3)                                                                         |
-  | [Talking Serverless](https://www.talkingserverless.io/)                     | [Anthony Campolo Returns!](https://www.talkingserverless.io/episodes/ep-38%3A-anthony-campolo-returns!)                                                                   |
-  | [PodRocket](https://podrocket.logrocket.com/)                               | [GraphQL 101 with Anthony Campolo](https://podrocket.logrocket.com/graphql)                                                                                               |
-  | [JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)                 | [RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://topenddevs.com/podcasts/javascript-jabber/episodes/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo)  |
-  | [Web Rush](https://webrush.io/)                                             | [RedwoodJS with Anthony Campolo](https://webrush.io/episodes/episode-119-redwood-js-with-anthony-campolo)                                                                 |
-  | [Rails with Jason](https://www.codewithjason.com/rails-with-jason-podcast/) | [RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/podcast/9478234-081-redwoodjs-with-anthony-campolo-redwoodjs-core-advocate/)      |
-  | [Does Not Compute](https://dnc.show/)                                       | [RedwoodJS with Anthony Campolo](https://spec.fm/podcasts/does-not-compute/SdKxPhhS)                                                                                      |
-  | [That's My Jamstack](https://thatsmyjamstack.com/)                          | [Anthony Campolo on Fullstack Serverless Frameworks](https://thatsmyjamstack.com/posts/anthony-campolo/)                                                                  |
-  | [Talking Serverless](https://www.talkingserverless.io/)                     | [Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/episodes/ep-30%3A-anthony-campolo-redwoodjs-contributor)                                         |
-  | [Jamstack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) | [Studying the Stack with Anthony Campolo](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)                        |
-  | [Smashing Podcast](https://podcast.smashingmagazine.com/)                   | [What Is RedwoodJS with Anthony Campolo](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)                                            |
+  | Show                                                                        | Episode                                                                                                                                                                                                |
+  | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+  | [PodRocket](https://podrocket.logrocket.com/)                               | [QuickNode with Anthony Campolo and Noah Hein](https://podrocket.logrocket.com/quicknode)                                                                                                              |
+  | [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber/)     | [Simplifying Slinkity with Anthony Campolo](https://topenddevs.com/podcasts/javascript-jabber/episodes/simplifying-slinkity-with-anthony-campolo)                                                      |
+  | [JavaScript Jam](https://www.javascriptjam.com/)                            | [RedwoodJS: The JS App Framework](https://www.youtube.com/watch?v=QubWxw4hl_A)                                                                                                                         |
+  | [Does Not Compute](https://dnc.show/)                                       | [Anthony Campolo: Redwood, StepZen, and More](https://spec.fm/podcasts/does-not-compute/FzVJ74U3)                                                                                                      |
+  | [Talking Serverless](https://www.talkingserverless.io/)                     | [Anthony Campolo Returns!](https://www.talkingserverless.io/episodes/ep-38%3A-anthony-campolo-returns!)                                                                                                |
+  | [PodRocket](https://podrocket.logrocket.com/)                               | [GraphQL 101 with Anthony Campolo](https://podrocket.logrocket.com/graphql)                                                                                                                            |
+  | [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber/)     | [RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://topenddevs.com/podcasts/javascript-jabber/episodes/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo) |
+  | [Web Rush](https://webrush.io/)                                             | [RedwoodJS with Anthony Campolo](https://webrush.io/episodes/episode-119-redwood-js-with-anthony-campolo)                                                                                              |
+  | [Rails with Jason](https://www.codewithjason.com/rails-with-jason-podcast/) | [RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/podcast/9478234-081-redwoodjs-with-anthony-campolo-redwoodjs-core-advocate/)                                   |
+  | [Does Not Compute](https://dnc.show/)                                       | [RedwoodJS with Anthony Campolo](https://spec.fm/podcasts/does-not-compute/SdKxPhhS)                                                                                                                   |
+  | [That's My Jamstack](https://thatsmyjamstack.com/)                          | [Anthony Campolo on Fullstack Serverless Frameworks](https://thatsmyjamstack.com/posts/anthony-campolo/)                                                                                               |
+  | [Talking Serverless](https://www.talkingserverless.io/)                     | [Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/episodes/ep-30%3A-anthony-campolo-redwoodjs-contributor)                                                                      |
+  | [Jamstack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) | [Studying the Stack with Anthony Campolo](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)                                                     |
+  | [Smashing Podcast](https://podcast.smashingmagazine.com/)                   | [What Is RedwoodJS with Anthony Campolo](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)                                                                         |
 </details>
 
 ## Videos
 
 I say words to explain stuff about things but also with images this time.
 
+### Web3
+
+<details>
+  <summary>Click to see web3 videos</summary><br>
+
+  | Location         | Talk                                                                                                                              |
+  | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+  | Some Antics      | [Deploy a Site to the Decentralized Web with IPFS](https://www.youtube.com/watch?v=GJQZkm2ut0E)                                   |
+  | Jamstack Boston  | [Web3 is Jamstack by Default](https://www.youtube.com/watch?app=desktop&v=mGeBVj6Mve0)                                            |
+  | PurrfectDev      | [QuickNode Builds Infrastructure for the Future](https://www.youtube.com/watch?v=_eI89jkGdSU)                                     |
+  | QuickStreams     | [Taking Astro to the Moon with QuickNode](https://www.youtube.com/watch?v=0CGxaQ2xKtg)                                            |
+  | Codementors      | [A First Look at Deploying Smart Contracts on Avalanche](https://www.youtube.com/watch?v=RvvMWGPJVUI)                             |
+  | QuickStreams     | [A First Look at Avalanche](https://www.youtube.com/watch?v=r2GIxZ1KMQE)                                                          |
+  | ETHAmsterdam     | [Optimistic Rollups and Sidechains](https://www.youtube.com/watch?v=xtLmrKsFPvg)                                                  |
+</details>
+
 ### RedwoodJS
 
 <details>
   <summary>Click to see RedwoodJS videos</summary><br>
 
-  | Meetup           | Talk                                                                                                                              |
+  | Location         | Talk                                                                                                                              |
   | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+  | Nick Taylor      | [RedwoodJS Walkthrough with Anthony Campolo](https://www.youtube.com/watch?v=URQSVmrr8Vo)                                         |
+  | Learn with Jason | [RedwoodJS 1.0](https://www.youtube.com/watch?v=wrGOSm7IYRQ)                                                                      |
   | Jamstack Boston  | [Architecting Jamstack Applications with GraphQL](https://www.youtube.com/watch?v=rZvNpMv4spE)                                    |
   | Some Antics      | [Secrets of Accessible Routing with the RedwoodJS Core Team](https://www.youtube.com/watch?v=LSuDHfAsBCE&ab_channel=BenMyers)     |
   | Async            | [Fullstack Jamstack Development with RedwoodJS](https://www.youtube.com/watch?v=n1CUe6ArjD8)                                      |
@@ -131,19 +151,19 @@ I say words to explain stuff about things but also with images this time.
 <details>
   <summary>Click to see StepZen videos</summary><br>
   
-  | Guest/Show       | Episode                                                                                                                           |
+  | Guest/Location   | Episode                                                                                                                           |
   | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
   | Pratical Dev     | [Walkthrough Wednesday with Anthony Campolo](https://www.youtube.com/watch?v=pwO_dTYUFT8)                                         |
-  | Anthony Campolo  | [Analyze Sentiment of Dev.to Blog Comments with Google's Cloud Natural Language API](https://www.youtube.com/watch?v=O06cdhlYZVM) |
+  | StepZen Stream   | [Analyze Sentiment of Dev.to Blog Comments with Google's Cloud Natural Language API](https://www.youtube.com/watch?v=O06cdhlYZVM) |
   | Frontend Horse   | [Integrating APIs with StepZen GraphQL Studio](https://www.youtube.com/watch?v=17VYX2AW4Jg)                                       |
   | Alex Trost       | [Connecting to Prismic's REST API with StepZen](https://www.youtube.com/watch?v=69MtoZrvKts)                                      |
   | Ben Holmes       | [Bringing Dynamic Content to Static 11ty Sites with Slinkity and GraphQL](https://www.youtube.com/watch?v=Od-xAgNaDdY)            |
   | Sean Keegan      | [Testing a StepZen GraphQL API with Postman](https://www.youtube.com/watch?v=TjrDzDdj1J4&ab_channel=StepZen)                      |
-  | Anthony Campolo  | [StepZen 101 - What is StepZen and How Does it Work?](https://www.youtube.com/watch?v=fe5nye62USc)                                |
+  | StepZen Stream   | [StepZen 101 - What is StepZen and How Does it Work?](https://www.youtube.com/watch?v=fe5nye62USc)                                |
   | Paul Copplestone | [Techniques for Connecting to a PostgreSQL Database with StepZen and Supabase](https://www.youtube.com/watch?v=sBEFTfUfxbk)       |
   | Facundo Giuliani | [How to mix data from Storyblok CMS with your own project using StepZen](https://www.youtube.com/watch?v=gDxYEUIzRMQ)             |
   | Greg Schier      | [Deploying Railway Applications](https://www.youtube.com/watch?v=nFu_WgudLlY)                                                     |
-  | Anthony Campolo  | [Creating a Mesh of GraphQL API's with StepZen's `@graphql` Directive](https://www.youtube.com/watch?v=beTNUsQb2ew)               |
+  | StepZen Stream   | [Creating a Mesh of GraphQL API's with StepZen's `@graphql` Directive](https://www.youtube.com/watch?v=beTNUsQb2ew)               |
 </details>
 
 ### Other Talks
@@ -151,7 +171,7 @@ I say words to explain stuff about things but also with images this time.
 <details>
   <summary>Click to see talks I've given on other topics</summary><br>
 
-  | Meetup/Show                 | Talk                                                                                                          |
+  | Location                    | Talk                                                                                                          |
   | --------------------------- | ------------------------------------------------------------------------------------------------------------- |
   | Teach Jenn Tech             | [Deploy a React App with Vite and Vercel](https://www.youtube.com/watch?v=bU-zAAd5FyM)                        |
   | Some Antics                 | [Building APIs with Deno and Oak](https://www.youtube.com/watch?v=ssosKWNIcwM)                                |
