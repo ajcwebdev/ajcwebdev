@@ -12,13 +12,14 @@ I'm a Developer Advocate at [QuickNode](https://www.quicknode.com/), a member of
 
 * [What Do I Do?](#what-do-i-do)
 * [Tutorials](#tutorials)
+  * [Web3](#web3)
   * [Frameworks and Build Tools](#frameworks-and-build-tools)
   * [Deployment and DevOps](#deployment-and-devops)
 * [Podcasts](#podcasts)
 * [Videos](#videos)
-  * [Web3](#web3)
+  * [QuickNode](#quicknode)
   * [RedwoodJS](#redwoodjs)
-  * [StepZen](#stepzen)
+  * [StepZen and GraphQL](#stepzen-and-graphql)
   * [Other Talks](#other-talks)
 * [Sponsors](#sponsors)
 
@@ -34,24 +35,37 @@ I'm a Developer Advocate at [QuickNode](https://www.quicknode.com/), a member of
 
 I write words to explain stuff about things.
 
+### Web3
+
+<details>
+  <summary>Click to see tutorials on web3</summary><br>
+
+  | Blog                                                                                                                   | Repo                                                     |
+  | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+  | [A First Look at IPFS](https://ajcwebdev.com/a-first-look-at-ipfs)                                                     | TODO                                                     |
+  | [A First Look at Avalanche](https://ajcwebdev.com/how-to-create-a-dapp-on-avalanches-fuji-testnet-with-quicknode)      | [Repo](https://github.com/ajcwebdev/ajcwebdev-avalanche) |
+  | [Storing NFT Information Off-Chain with Fauna](https://ajcwebdev.com/storing-nft-information-off-chain-with-fauna)     | TODO                                                     |
+  | [A First Look at Ethers and Hardhat](https://ajcwebdev.com/a-first-look-at-ethers-and-hardhat)                         | TODO                                                     |
+</details>
+
 ### Frameworks and Build Tools
 
 <details>
   <summary>Click to see tutorials on frameworks and build tools</summary><br>
 
-  | Blog                                                                                                                   | Repo                                                         |
-  | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-  | [A First Look at Astro](https://dev.to/ajcwebdev/a-first-look-at-astro-2937)                                           | [Repo](https://github.com/ajcwebdev/ajcwebdev-astro)         |
-  | [A First Look at Oak](https://dev.to/ajcwebdev/a-first-look-at-oak-2gob)                                               | [Repo](https://github.com/ajcwebdev/ajcwebdev-oak)           |
-  | [A First Look at Nuxt 3](https://dev.to/ajcwebdev/a-first-look-at-nuxt-3-1769)                                         | [Repo](https://github.com/ajcwebdev/ajcwebdev-nuxt3)         |
-  | [A First Look at GraphQL Helix](https://dev.to/ajcwebdev/a-first-look-at-graphql-helix-1db3)                           | [Repo](https://github.com/ajcwebdev/ajcwebdev-graphql-helix) |
-  | [A First Look at KeystoneJS](https://dev.to/ajcwebdev/a-first-look-at-keystonejs-267m)                                 | [Repo](https://github.com/ajcwebdev/ajcwebdev-keystone)      |
-  | [A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)                                      | [Repo](https://github.com/ajcwebdev/ajcwebdev-slinkity)      |
-  | [A First Look at React 18 with Vite and Netlify](https://ajcwebdev.com/a-first-look-at-react-18-with-vite-and-netlify) | [Repo](https://github.com/ajcwebdev/ajcwebdev-react18)       |
-  | [A First Look at Remix](https://dev.to/ajcwebdev/a-first-look-at-remix-2cp1)                                           | [Repo](https://github.com/ajcwebdev/ajcwebdev-remix)         |
-  | [A First Look at Vite](https://dev.to/ajcwebdev/a-first-look-at-vite-m8n)                                              | [Repo](https://github.com/ajcwebdev/ajcwebdev-vite)          |
-  | [A First Look at SvelteKit](https://dev.to/ajcwebdev/a-first-look-at-svelte-kit-372h)                                  | TODO                                                         |
-  | [A First Look at RedwoodJS](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)          | [Repo](https://github.com/ajcwebdev/ajcwebdev-redwood)       |
+  | Blog                                                                                                                           | Repo                                                         |
+  | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+  | [A First Look at Astro](https://ajcwebdev.com/a-first-look-at-astro)                                                           | [Repo](https://github.com/ajcwebdev/ajcwebdev-astro)         |
+  | [A First Look at Oak](https://ajcwebdev.com/a-first-look-at-oak)                                                               | [Repo](https://github.com/ajcwebdev/ajcwebdev-oak)           |
+  | [A First Look at Nuxt 3](https://ajcwebdev.com/a-first-look-at-nuxt-3)                                                         | [Repo](https://github.com/ajcwebdev/ajcwebdev-nuxt3)         |
+  | [A First Look at GraphQL Helix](https://ajcwebdev.com/a-first-look-at-graphql-helix)                                           | [Repo](https://github.com/ajcwebdev/ajcwebdev-graphql-helix) |
+  | [A First Look at KeystoneJS](https://dev.to/ajcwebdev/a-first-look-at-keystonejs-267m)                                         | [Repo](https://github.com/ajcwebdev/ajcwebdev-keystone)      |
+  | [A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)                                              | [Repo](https://github.com/ajcwebdev/ajcwebdev-slinkity)      |
+  | [A First Look at React 18 with Vite and Netlify](https://dev.to/ajcwebdev/a-first-look-at-react-18-with-vite-and-netlify-5411) | [Repo](https://github.com/ajcwebdev/ajcwebdev-react18)       |
+  | [A First Look at Remix](https://ajcwebdev.com/a-first-look-at-remix)                                                           | [Repo](https://github.com/ajcwebdev/ajcwebdev-remix)         |
+  | [A First Look at Vite](https://ajcwebdev.com/a-first-look-at-vite)                                                             | [Repo](https://github.com/ajcwebdev/ajcwebdev-vite)          |
+  | [A First Look at SvelteKit](https://ajcwebdev.com/a-first-look-at-sveltekit)                                                   | [Repo](https://github.com/ajcwebdev/ajcwebdev-sveltekit)     |
+  | [A First Look at RedwoodJS](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)                  | [Repo](https://github.com/ajcwebdev/ajcwebdev-redwood)       |
 </details>
 
 ### Deployment and DevOps
@@ -59,24 +73,23 @@ I write words to explain stuff about things.
 <details>
   <summary>Click to see tutorials on deployment and DevOps</summary><br>
 
-  | Blog|Repo|
-  | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-  | [A First Look at Pulumi](https://dev.to/ajcwebdev/a-first-look-at-pulumi-4h3l)                                      | [Repo](https://github.com/ajcwebdev/ajcwebdev-pulumi)           |
-  | [A First Look at AWS Fargate](https://dev.to/ajcwebdev/a-first-look-at-aws-fargate-395f)                            | TODO                                                            |
-  | [A First Look at Serverless Cloud](https://dev.to/ajcwebdev/a-first-look-at-serverless-cloud-3e18)                  | [Repo](https://github.com/ajcwebdev/ajcwebdev-serverless-cloud) |
-  | [A First Look at Fly](https://dev.to/ajcwebdev/a-first-look-at-fly-3a87)                                            | [Repo](https://github.com/ajcwebdev/ajcwebdev-fly)              |
-  | [A First Look at GitHub Actions](https://dev.to/ajcwebdev/a-first-look-at-github-actions-1j9d)                      | [Repo](https://github.com/ajcwebdev/ajcwebdev-actions)          |
-  | [A First Look at PostGraphile with Railway](https://dev.to/ajcwebdev/a-first-look-at-postgraphile-with-railway-1k9d)| TODO                                                            |
-  | [A First Look at Deno Deploy](https://dev.to/ajcwebdev/a-first-look-at-deno-deploy-3hmc)                            | [Repo](https://github.com/ajcwebdev/ajcwebdev-deno)             |
-  | [A First Look at Docker](https://dev.to/ajcwebdev/a-first-look-at-docker-3hfg)                                      | [Repo](https://github.com/ajcwebdev/ajcwebdev-docker)           |
-  | [A First Look at Azure Functions](https://dev.to/ajcwebdev/a-first-look-at-azure-functions-i6f)                     | [Repo](https://github.com/ajcwebdev/ajcwebdev-azure)            |
-  | [A First Look at Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)      | [Repo](https://github.com/ajcwebdev/ajcwebdev-serverless)       |
-  | [A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)                                | [Repo](https://github.com/ajcwebdev/ajcwebdev-architect)        |
-  | [A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)                | [Repo](https://github.com/ajcwebdev/ajcwebdev-amplify)          |
-  | [A First Look at AWS SAM](https://dev.to/ajcwebdev/a-first-look-at-aws-sam-478c)                                    | [Repo](https://github.com/ajcwebdev/ajcwebdev-sam)              |
-  | [A First Look at AWS CDK](https://dev.to/ajcwebdev/a-first-look-at-aws-cdk-2036)                                    | [Repo](https://github.com/ajcwebdev/ajcwebdev-cdk)              |
-  | [A First Look at Cloudflare Workers](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-workers-20km)              | [Repo](https://github.com/ajcwebdev/ajcwebdev-workers)          |
-  | [A First Look at Cloudflare Pages](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-pages-2a5h)                  | [Repo](https://github.com/ajcwebdev/redwood-cloudflare-pages)   |
+  | Blog                                                                                                                 | Repo                                                            |
+  | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+  | [A First Look at Pulumi](https://ajcwebdev.com/a-first-look-at-pulumi)                                               | [Repo](https://github.com/ajcwebdev/ajcwebdev-pulumi)           |
+  | [A First Look at AWS Fargate](https://ajcwebdev.com/a-first-look-at-aws-fargate)                                     | TODO                                                            |
+  | [A First Look at Serverless Cloud](https://dev.to/ajcwebdev/a-first-look-at-serverless-cloud-3e18)                   | [Repo](https://github.com/ajcwebdev/ajcwebdev-serverless-cloud) |
+  | [A First Look at Fly](https://dev.to/ajcwebdev/a-first-look-at-fly-3a87)                                             | [Repo](https://github.com/ajcwebdev/ajcwebdev-fly)              |
+  | [A First Look at GitHub Actions](https://ajcwebdev.com/a-first-look-at-github-actions)                               | [Repo](https://github.com/ajcwebdev/ajcwebdev-actions)          |
+  | [A First Look at PostGraphile with Railway](https://dev.to/ajcwebdev/a-first-look-at-postgraphile-with-railway-1k9d) | TODO                                                            |
+  | [A First Look at Docker](https://ajcwebdev.com/a-first-look-at-docker)                                               | [Repo](https://github.com/ajcwebdev/ajcwebdev-docker)           |
+  | [A First Look at Azure Functions](https://dev.to/ajcwebdev/a-first-look-at-azure-functions-i6f)                      | [Repo](https://github.com/ajcwebdev/ajcwebdev-azure)            |
+  | [A First Look at Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)       | [Repo](https://github.com/ajcwebdev/ajcwebdev-serverless)       |
+  | [A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)                                 | [Repo](https://github.com/ajcwebdev/ajcwebdev-architect)        |
+  | [A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)                 | [Repo](https://github.com/ajcwebdev/ajcwebdev-amplify)          |
+  | [A First Look at AWS SAM](https://dev.to/ajcwebdev/a-first-look-at-aws-sam-478c)                                     | [Repo](https://github.com/ajcwebdev/ajcwebdev-sam)              |
+  | [A First Look at AWS CDK](https://dev.to/ajcwebdev/a-first-look-at-aws-cdk-2036)                                     | [Repo](https://github.com/ajcwebdev/ajcwebdev-cdk)              |
+  | [A First Look at Cloudflare Workers](https://ajcwebdev.com/a-first-look-at-cloudflare-workers)                       | [Repo](https://github.com/ajcwebdev/ajcwebdev-workers)          |
+  | [A First Look at Cloudflare Pages](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-pages-2a5h)                   | [Repo](https://github.com/ajcwebdev/redwood-cloudflare-pages)   |
 </details>
 
 ## Podcasts
@@ -108,14 +121,13 @@ I say words to explain stuff about things.
 
 I say words to explain stuff about things but also with images this time.
 
-### Web3
+### QuickNode
 
 <details>
-  <summary>Click to see web3 videos</summary><br>
+  <summary>Click to see QuickNode videos</summary><br>
 
   | Location         | Talk                                                                                                                              |
   | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-  | Some Antics      | [Deploy a Site to the Decentralized Web with IPFS](https://www.youtube.com/watch?v=GJQZkm2ut0E)                                   |
   | Jamstack Boston  | [Web3 is Jamstack by Default](https://www.youtube.com/watch?app=desktop&v=mGeBVj6Mve0)                                            |
   | PurrfectDev      | [QuickNode Builds Infrastructure for the Future](https://www.youtube.com/watch?v=_eI89jkGdSU)                                     |
   | QuickStreams     | [Taking Astro to the Moon with QuickNode](https://www.youtube.com/watch?v=0CGxaQ2xKtg)                                            |
@@ -147,13 +159,14 @@ I say words to explain stuff about things but also with images this time.
   | Jamstack Denver  | [A First Look at RedwoodJS](https://www.youtube.com/watch?v=0krdC_D42IU)                                                          |
 </details>
 
-### StepZen
+### StepZen and GraphQL
 
 <details>
   <summary>Click to see StepZen videos</summary><br>
   
   | Guest/Location   | Episode                                                                                                                           |
   | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+  | PurrfectDev      | [Managing Multiple Data Sources in GraphQL](https://www.youtube.com/watch?v=-NcWWkfPcSM)                                          |
   | Pratical Dev     | [Walkthrough Wednesday with Anthony Campolo](https://www.youtube.com/watch?v=pwO_dTYUFT8)                                         |
   | StepZen Stream   | [Analyze Sentiment of Dev.to Blog Comments with Google's Cloud Natural Language API](https://www.youtube.com/watch?v=O06cdhlYZVM) |
   | Frontend Horse   | [Integrating APIs with StepZen GraphQL Studio](https://www.youtube.com/watch?v=17VYX2AW4Jg)                                       |
@@ -165,6 +178,8 @@ I say words to explain stuff about things but also with images this time.
   | Facundo Giuliani | [How to mix data from Storyblok CMS with your own project using StepZen](https://www.youtube.com/watch?v=gDxYEUIzRMQ)             |
   | Greg Schier      | [Deploying Railway Applications](https://www.youtube.com/watch?v=nFu_WgudLlY)                                                     |
   | StepZen Stream   | [Creating a Mesh of GraphQL API's with StepZen's `@graphql` Directive](https://www.youtube.com/watch?v=beTNUsQb2ew)               |
+  | Mintbean         | [Intro to GraphQL](https://www.youtube.com/watch?v=xwbi_s6v3sg)                                                                   |
+  | Mintbean         | [Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)                                                     |
 </details>
 
 ### Other Talks
@@ -174,14 +189,13 @@ I say words to explain stuff about things but also with images this time.
 
   | Location                    | Talk                                                                                                          |
   | --------------------------- | ------------------------------------------------------------------------------------------------------------- |
+  | Some Antics                 | [Deploy a Site to the Decentralized Web with IPFS](https://www.youtube.com/watch?v=GJQZkm2ut0E)               |
   | Teach Jenn Tech             | [Deploy a React App with Vite and Vercel](https://www.youtube.com/watch?v=bU-zAAd5FyM)                        |
   | The Jamstack Goes Fullstack | [The Jamstack Goes Fullstack](https://www.youtube.com/watch?v=1bYvPcCkbBI)                                    |
   | Some Antics                 | [Building APIs with Deno and Oak](https://www.youtube.com/watch?v=ssosKWNIcwM)                                |
   | Some Antics                 | [Vite and the Next Generation of Frontend Tooling](https://www.youtube.com/watch?v=gRzWZpRmkv0)               |
-  | Mintbean                    | [Intro to GraphQL](https://www.youtube.com/watch?v=xwbi_s6v3sg)                                               |
   | Svelte Society Bay Area     | [Optimize your Site for SEO with Elder.js with Anthony Campolo](https://www.youtube.com/watch?v=Ru5_2spFjQg)  |
   | Mintbean                    | [Optimize your SEO with Elder.js](https://www.youtube.com/watch?v=R-GrUe5fIlg)                                |
-  | Mintbean                    | [Fullstack GraphQL with AppSync](https://www.youtube.com/watch?v=I8jBOfNLDNw)                                 |
   | Mintbean                    | [Building an App from Scratch with Nuxt.js](https://www.youtube.com/watch?v=6dy88IEvtO8)                      |
   | Open Sauced                 | [A Bootcamp Student’s Contribution to Open Source](https://www.youtube.com/watch?v=yEyz2WXrqdo)               |
   | Paris Deno                  | [Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)                                        |
