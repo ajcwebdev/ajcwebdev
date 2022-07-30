@@ -141,22 +141,22 @@ I say words to explain stuff about things but also with images this time.
 <details>
   <summary>Click to see RedwoodJS videos</summary><br>
 
-  | Location         | Talk                                                                                                                              |
-  | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-  | Nick Taylor      | [RedwoodJS Walkthrough with Anthony Campolo](https://www.youtube.com/watch?v=URQSVmrr8Vo)                                         |
-  | Learn with Jason | [RedwoodJS 1.0](https://www.youtube.com/watch?v=wrGOSm7IYRQ)                                                                      |
-  | Jamstack Boston  | [Architecting Jamstack Applications with GraphQL](https://www.youtube.com/watch?v=rZvNpMv4spE)                                    |
-  | Some Antics      | [Secrets of Accessible Routing with the RedwoodJS Core Team](https://www.youtube.com/watch?v=LSuDHfAsBCE&ab_channel=BenMyers)     |
-  | Async            | [Fullstack Jamstack Development with RedwoodJS](https://www.youtube.com/watch?v=n1CUe6ArjD8)                                      |
-  | Events.lunch.dev | [Using Storybook with Redwood](https://www.youtube.com/watch?v=zYm1a39Lpgs)                                                       |
-  | Some Antics      | [Putting RedwoodJS Docs to the Test](https://www.youtube.com/watch?v=ois3P63Yiwc)                                                 |
-  | GraphQL Denver   | [Fullstack GraphQL with RedwoodJS and AppSync](https://www.youtube.com/watch?v=v-3yXJ5sLsY)                                       |
-  | JS Monthly       | [Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=x3NuaErh6vs)                            |
-  | Jamstack OPO     | [Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=RwZ1bWWRJQI)                            |
-  | Learn with Jason | [Let's Learn RedwoodJS!](https://www.youtube.com/watch?v=o9JVHmYvs9Q)                                                             |
-  | Mintbean         | [RedwoodJS and the Universal Deployment Machine](https://www.youtube.com/watch?v=QHmBRaizvxE)                                     |
-  | GraphQL Texas    | [Architecting a Fullstack Jamstack Application with FaunaDB, RedwoodJS, and GraphQL](https://www.youtube.com/watch?v=J-StXLZXG98) |
-  | Jamstack Denver  | [A First Look at RedwoodJS](https://www.youtube.com/watch?v=0krdC_D42IU)                                                          |
+  | Date       | Location         | Talk                                                                                                                              |
+  | ---------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+  | 2022-05-13 | Nick Taylor      | [RedwoodJS Walkthrough with Anthony Campolo](https://www.youtube.com/watch?v=URQSVmrr8Vo)                                         |
+  | 2022-03-18 | Learn with Jason | [RedwoodJS 1.0](https://www.youtube.com/watch?v=wrGOSm7IYRQ)                                                                      |
+  | 2021-05-19 | Jamstack Boston  | [Architecting Jamstack Applications with GraphQL](https://www.youtube.com/watch?v=rZvNpMv4spE)                                    |
+  | 2021-03-26 | Some Antics      | [Secrets of Accessible Routing with the RedwoodJS Core Team](https://www.youtube.com/watch?v=LSuDHfAsBCE&ab_channel=BenMyers)     |
+  | 2021-03-11 | Async            | [Fullstack Jamstack Development with RedwoodJS](https://www.youtube.com/watch?v=n1CUe6ArjD8)                                      |
+  | 2021-02-28 | Events.lunch.dev | [Using Storybook with Redwood](https://www.youtube.com/watch?v=zYm1a39Lpgs)                                                       |
+  | 2021-02-23 | GraphQL Denver   | [Fullstack GraphQL with RedwoodJS and AppSync](https://www.youtube.com/watch?v=v-3yXJ5sLsY)                                       |
+  | 2021-02-02 | Some Antics      | [Putting RedwoodJS Docs to the Test](https://www.youtube.com/watch?v=ois3P63Yiwc)                                                 |
+  | 2020-12-17 | JS Monthly       | [Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=x3NuaErh6vs)                            |
+  | 2020-12-15 | Jamstack OPO     | [Building Fullstack Jamstack Applications with RedwoodJS](https://www.youtube.com/watch?v=RwZ1bWWRJQI)                            |
+  | 2020-12-02 | Learn with Jason | [Let's Learn RedwoodJS!](https://www.youtube.com/watch?v=o9JVHmYvs9Q)                                                             |
+  | 2020-10-28 | Mintbean         | [RedwoodJS and the Universal Deployment Machine](https://www.youtube.com/watch?v=QHmBRaizvxE)                                     |
+  | 2020-09-24 | GraphQL Texas    | [Architecting a Fullstack Jamstack Application with FaunaDB, RedwoodJS, and GraphQL](https://www.youtube.com/watch?v=J-StXLZXG98) |
+  | 2020-09-05 | Jamstack Denver  | [A First Look at RedwoodJS](https://www.youtube.com/watch?v=0krdC_D42IU)                                                          |
 </details>
 
 ### StepZen and GraphQL
