@@ -4,9 +4,9 @@ I'm a Developer Advocate at [QuickNode](https://www.quicknode.com/), a member of
 
 <a href="https://twitter.com/intent/follow?screen_name=ajcwebdev&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/ajcwebdev?label=%40ajcwebdev&style=social"></a>
 
-|**Redwood**|**QuickNode**|**StepZen**|**FSJam**  |**Slinkity**|**Open Sauced**|**Lunch.dev**|
-|-----------|-------------|-----------|-----------|------------|---------------|-------------|
-|![](https://avatars.githubusercontent.com/u/45050444?s=90&v=4)|![](https://avatars.githubusercontent.com/u/53955811?s=90&v=4)|![](https://avatars.githubusercontent.com/u/78568488?s=90&v=4)|![](https://avatars.githubusercontent.com/u/70036575?s=90&v=4)|![](https://avatars.githubusercontent.com/u/89559275?s=90&v=4)|![](https://avatars.githubusercontent.com/u/57568598?s=90&v=4)|![](https://avatars.githubusercontent.com/u/76407473?s=90&v=4)|
+| **Redwood**                                                   | **QuickNode**                                                  | **StepZen**                                                    | **FSJam**                                                      | **Slinkity**                                                   | **Open Sauced**                                                | **Lunch.dev**                                                  |
+| ------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| ![](https://avatars.githubusercontent.com/u/45050444?s=90&v=4)| ![](https://avatars.githubusercontent.com/u/53955811?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/78568488?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/70036575?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/89559275?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/57568598?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/76407473?s=90&v=4) |
 
 ## Outline
 
