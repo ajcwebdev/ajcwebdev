@@ -126,14 +126,14 @@ I say words to explain stuff about things but also with images this time.
 <details>
   <summary>Click to see QuickNode videos</summary><br>
 
-  | Location         | Talk                                                                                                                              |
-  | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-  | Jamstack Boston  | [Web3 is Jamstack by Default](https://www.youtube.com/watch?app=desktop&v=mGeBVj6Mve0)                                            |
-  | PurrfectDev      | [QuickNode Builds Infrastructure for the Future](https://www.youtube.com/watch?v=_eI89jkGdSU)                                     |
-  | QuickStreams     | [Taking Astro to the Moon with QuickNode](https://www.youtube.com/watch?v=0CGxaQ2xKtg)                                            |
-  | Codementors      | [A First Look at Deploying Smart Contracts on Avalanche](https://www.youtube.com/watch?v=RvvMWGPJVUI)                             |
-  | QuickStreams     | [A First Look at Avalanche](https://www.youtube.com/watch?v=r2GIxZ1KMQE)                                                          |
-  | ETHAmsterdam     | [Optimistic Rollups and Sidechains](https://www.youtube.com/watch?v=xtLmrKsFPvg)                                                  |
+  | Date       | Location         | Talk                                                                                                                              |
+  | ---------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+  | 2022-07-07 | Jamstack Boston  | [Web3 is Jamstack by Default](https://www.youtube.com/watch?app=desktop&v=mGeBVj6Mve0)                                            |
+  | 2022-07-06 | PurrfectDev      | [QuickNode Builds Infrastructure for the Future](https://www.youtube.com/watch?v=_eI89jkGdSU)                                     |
+  | 2022-06-01 | QuickStreams     | [Taking Astro to the Moon with QuickNode](https://www.youtube.com/watch?v=0CGxaQ2xKtg)                                            |
+  | 2022-05-31 | Codementors      | [A First Look at Deploying Smart Contracts on Avalanche](https://www.youtube.com/watch?v=RvvMWGPJVUI)                             |
+  | 2022-05-15 | QuickStreams     | [A First Look at Avalanche](https://www.youtube.com/watch?v=r2GIxZ1KMQE)                                                          |
+  | 2022-04-29 | ETHAmsterdam     | [Optimistic Rollups and Sidechains](https://www.youtube.com/watch?v=xtLmrKsFPvg)                                                  |
 </details>
 
 ### RedwoodJS
