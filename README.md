@@ -2,7 +2,7 @@
 
 I'm a Developer Advocate at [QuickNode](https://www.quicknode.com/), a member of the [RedwoodJS](https://redwoodjs.com/) core team, and co-host of the [FSJam Podcast](https://fsjam.org/). Other projects I've worked on include [StepZen](https://stepzen.com/), [Slinkity](https://slinkity.dev/), and [Open Sauced](https://opensauced.pizza/). In my spare time I impersonate a donut and hang out on Twitter Spaces.
 
-<a href="https://twitter.com/intent/follow?screen_name=ajcwebdev&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/ajcwebdev?label=%40ajcwebdev&style=social"></a>
+### Projects
 
 | [**Redwood**](https://redwoodjs.com/)                         | [**QuickNode**](https://quicknode.com/)                        | [**StepZen**](https://stepzen.com/)                            | [**FSJam**](https://fsjam.org/)                                | [**Slinkity**](https://slinkity.dev/)                          | [**Open Sauced**](https://opensauced.pizza/)                   | [**Lunch.dev**](https://discord.gg/jg8UvXpMjS)                 |
 | ------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -209,3 +209,9 @@ I say words to explain stuff about things but also with images this time.
 | [Brian Dougie](https://github.com/bdougie)                                          | [CodingCatDev](https://github.com/CodingCatDev)                                   |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![Brian Douglas Avatar](https://avatars0.githubusercontent.com/u/5713670?s=200&v=4) | ![CodingCatDev Avatar](https://avatars.githubusercontent.com/u/44850231?s=200&v=4)|
+
+## Stats
+
+[![Anthony Campolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajcwebdev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anthony Campolo's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajcwebdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
