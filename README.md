@@ -2,8 +2,6 @@
 
 I'm a Developer Advocate at [QuickNode](https://www.quicknode.com/), a member of the [RedwoodJS](https://redwoodjs.com/) core team, and co-host of the [FSJam Podcast](https://fsjam.org/). Other projects I've worked on include [StepZen](https://stepzen.com/), [Slinkity](https://slinkity.dev/), and [Open Sauced](https://opensauced.pizza/). In my spare time I impersonate a donut and hang out on Twitter Spaces.
 
-### Projects
-
 <table>
   <tr>
     <th><a href="https://redwoodjs.com/"><b>Redwood</b></a></th>
