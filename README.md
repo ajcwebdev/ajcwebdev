@@ -4,9 +4,35 @@ I'm a Developer Advocate at [QuickNode](https://www.quicknode.com/), a member of
 
 ### Projects
 
-| [**Redwood**](https://redwoodjs.com/)                         | [**QuickNode**](https://quicknode.com/)                        | [**StepZen**](https://stepzen.com/)                            | [**FSJam**](https://fsjam.org/)                                | [**Slinkity**](https://slinkity.dev/)                          | [**Open Sauced**](https://opensauced.pizza/)                   | [**Lunch.dev**](https://discord.gg/jg8UvXpMjS)                 |
-| ------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![](https://avatars.githubusercontent.com/u/45050444?s=90&v=4)| ![](https://avatars.githubusercontent.com/u/53955811?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/78568488?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/70036575?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/89559275?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/57568598?s=90&v=4) | ![](https://avatars.githubusercontent.com/u/76407473?s=90&v=4) |
+<table>
+  <tr>
+    <th><a href="https://redwoodjs.com/"><b>Redwood</b></a></th>
+    <th><a href="https://quicknode.com/"><b>QuickNode</b></a></th>
+    <th><a href="https://stepzen.com/"><b>StepZen</b></a></th>
+    <th><a href="https://create.t3.gg/"><b>create-t3-app</b></a></th>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/45050444?s=200&v=4" height="100" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" height="100" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/78568488?s=200&v=4" height="100" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="100" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><a href="https://fsjam.org/"><b>FSJam</b></a></th>
+    <th><a href="https://slinkity.dev/"><b>Slinkity</b></a></th>
+    <th><a href="https://opensauced.pizza/"><b>Open Sauced</b></a></th>
+    <th><a href="https://discord.gg/jg8UvXpMjS"><b>Lunch.dev</b></a></th>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/70036575?s=200&v=4" height="100" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/89559275?s=200&v=4" height="100" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/57568598?s=200&v=4" height="100" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/76407473?s=200&v=4" height="100" /></td>
+  </tr>
+</table>
 
 ## Outline
 
