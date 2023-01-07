@@ -2,7 +2,7 @@
   Hello, my name is Anthony Campolo! :wave:
 </h2>
 
-I'm a Developer Advocate at [QuickNode](https://www.quicknode.com/), a member of the [RedwoodJS](https://redwoodjs.com/) core team, and co-host of the [FSJam Podcast](https://fsjam.org/). Other projects I've worked on include [StepZen](https://stepzen.com/), [Slinkity](https://slinkity.dev/), and [Open Sauced](https://opensauced.pizza/). In my spare time I impersonate a donut and hang out on Twitter Spaces.
+I'm a Developer Advocate at [Edgio](https://edg.io/), a member of the [RedwoodJS](https://redwoodjs.com/) core team, and co-host of the [FSJam Podcast](https://fsjam.org/). Other projects I've worked on include [QuickNode](https://quicknode.com/), [StepZen](https://stepzen.com/), [Slinkity](https://slinkity.dev/), and [Open Sauced](https://opensauced.pizza/). In my spare time I impersonate a donut and hang out on Twitter Spaces.
 
 <table align="center">
   <tr>
@@ -249,9 +249,9 @@ I say words to explain stuff about things but also with images this time.
 
 ## Sponsors
 
-| [Brian Dougie](https://github.com/bdougie)                                          | [CodingCatDev](https://github.com/CodingCatDev)                                   |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![Brian Douglas Avatar](https://avatars0.githubusercontent.com/u/5713670?s=200&v=4) | ![CodingCatDev Avatar](https://avatars.githubusercontent.com/u/44850231?s=200&v=4)|
+| [Brian Dougie](https://github.com/bdougie)                                          |
+| ----------------------------------------------------------------------------------- |
+| ![Brian Douglas Avatar](https://avatars0.githubusercontent.com/u/5713670?s=200&v=4) |
 
 ## Stats
 
