@@ -2,50 +2,63 @@
   Hello, my name is Anthony Campolo! :wave:
 </h1>
 
-I'm a Developer Advocate at [Edgio](https://edg.io/), a member of the [RedwoodJS](https://redwoodjs.com/) core team, and co-host of the [FSJam Podcast](https://fsjam.org/) and [JavaScript Jam](https://www.javascriptjam.com/). Other projects I've worked on include [QuickNode](https://quicknode.com/), [StepZen](https://stepzen.com/), [Slinkity](https://slinkity.dev/), and [Open Sauced](https://opensauced.pizza/). In my spare time I impersonate a donut and hang out on Twitter Spaces.
+I'm a Developer Advocate at <a href="https://edg.io/">Edgio</a>, a member of the <a href="https://redwoodjs.com/">RedwoodJS</a> core team, and co-host of the <a href="https://fsjam.org/">FSJam Podcast</a> and <a href="https://www.javascriptjam.com/">JavaScript Jam</a>. Other projects I've worked on include <a href="https://quicknode.com/">QuickNode</a>, <a href="https://stepzen.com/">StepZen</a>, <a href="https://slinkity.dev/">Slinkity</a>, and <a href="https://opensauced.pizza/">Open Sauced</a>. In my spare time I impersonate a donut and hang out on Twitter Spaces.
 
 <table align="center">
   <tr>
     <th><a href="https://edg.io"><b>Edgio</b></a></th>
     <th><a href="https://redwoodjs.com/"><b>Redwood</b></a></th>
     <th><a href="https://fsjam.org/"><b>FSJam</b></a></th>
-    <th><a href="https://www.javascriptjam.com/"><b>JavaScript Jam</b></a></th>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/1184657?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/45050444?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/70036575?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://www.javascriptjam.com/content/images/2022/12/606218911befc219510548a5_Group-prdgoddib2bq9zz774x1gaf1ueywnogxq9fm05jabk.png" height="150" width="150" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/1184657?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/45050444?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/70036575?s=200&v=4" height="120" width="120" /></td>
   </tr>
 </table>
 
+<br>
+
 <table align="center">
   <tr>
+    <th><a href="https://www.javascriptjam.com/"><b>JavaScript Jam</b></a></th>
     <th><a href="https://create.t3.gg/"><b>create-t3-app</b></a></th>
     <th><a href="https://opensauced.pizza/"><b>Open Sauced</b></a></th>
-    <th><a href="https://showmy.chat/"><b>showmy.chat</b></a></th>
-    <th><a href="https://teachjenntech.com/"><b>Teach Jenn Tech</b></a></th>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/57568598?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/75396380?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/77285384?v=4" height="150" width="150" /></td>
+    <td><img src="https://www.javascriptjam.com/content/images/2022/12/606218911befc219510548a5_Group-prdgoddib2bq9zz774x1gaf1ueywnogxq9fm05jabk.png" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/57568598?s=200&v=4" height="120" width="120" /></td>
   </tr>
 </table>
 
+<br>
+
 <table align="center">
   <tr>
+    <th><a href="https://showmy.chat/"><b>showmy.chat</b></a></th>
+    <th><a href="https://teachjenntech.com/"><b>Teach Jenn Tech</b></a></th>
     <th><a href="https://discord.gg/jg8UvXpMjS"><b>Lunch.dev</b></a></th>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/75396380?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/77285384?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/76407473?s=200&v=4" height="120" width="120" /></td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
     <th><a href="https://quicknode.com/"><b>QuickNode</b></a></th>
     <th><a href="https://stepzen.com/"><b>StepZen</b></a></th>
     <th><a href="https://slinkity.dev/"><b>Slinkity</b></a></th>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/76407473?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/78568488?s=200&v=4" height="150" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/89559275?s=200&v=4" height="150" width="150" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/78568488?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/89559275?s=200&v=4" height="120" width="120" /></td>
   </tr>
 </table>
 
