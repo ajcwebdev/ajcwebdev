@@ -270,6 +270,6 @@ I say words to explain stuff about things but also with images this time.
 
 ## Stats
 
-[![Anthony Campolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajcwebdev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anthony Campolo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajcwebdev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anthony Campolo's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajcwebdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anthony Campolo's most used programming languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ajcwebdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
