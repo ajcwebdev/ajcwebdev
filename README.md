@@ -62,28 +62,40 @@ I'm a Developer Advocate at <a href="https://edg.io/">Edgio</a>, a member of the
   </tr>
 </table>
 
-## Outline
+<h2>Outline</h2>
 
-* [What Do I Do?](#what-do-i-do)
-* [Tutorials](#tutorials)
-  * [Web3](#web3)
-  * [Frameworks and Build Tools](#frameworks-and-build-tools)
-  * [Deployment and DevOps](#deployment-and-devops)
-* [Podcasts](#podcasts)
-* [Videos](#videos)
-  * [QuickNode](#quicknode)
-  * [RedwoodJS](#redwoodjs)
-  * [StepZen and GraphQL](#stepzen-and-graphql)
-  * [Other Talks](#other-talks)
-* [Sponsors](#sponsors)
+<ul>
+  <li><a href="#what-do-i-do">What Do I Do?</a></li>
+  <li><a href="#tutorials">Tutorials</a></li>
+  <ul>
+    <li><a href="#web3">Web3</a></li>
+    <li><a href="#frameworks-and-build-tools">Frameworks and Build Tools</a></li>
+    <li><a href="#deployment-and-devops">Deployment and DevOps</a></li>
+  </ul>
+</ul>
+<ul>
+  <li><a href="#podcasts">Podcasts</a></li>
+  <li><a href="#videos">Videos</a></li>
+  <ul>
+    <li><a href="#quicknode">QuickNode</a></li>
+    <li><a href="#redwoodjs">RedwoodJS</a></li>
+    <li><a href="#stepzen-and-graphql">StepZen and GraphQL</a></li>
+    <li><a href="#other-talks">Other Talks</a></li>
+  </ul>
+</ul>
+<ul>
+  <li><a href="#sponsors">Sponsors</a></li>
+</ul>
 
-## What Do I Do?
+<h2>What Do I Do?</h2>
 
-* :writing_hand: - Write blog articles
-* :speech_balloon: - Give meetup talks
-* :movie_camera: - Code on live streams
-* :studio_microphone: - Speak on podcasts
-* :bird: - Host Twitter Spaces
+<ul>
+  <li>:writing_hand: - Write blog articles</li>
+  <li>:speech_balloon: - Give meetup talks</li>
+  <li>:movie_camera: - Code on live streams</li>
+  <li>:studio_microphone: - Speak on podcasts</li>
+  <li>:bird: - Host Twitter Spaces</li>
+</ul>
 
 ## Tutorials
 
