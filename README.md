@@ -26,8 +26,8 @@
     <th><a href="https://www.javascriptjam.com/"><b>JavaScript Jam</b></a></th>
   </tr>
   <tr>
-    <td><img src="https://www.javascriptjam.com/content/images/2022/12/606218911befc219510548a5_Group-prdgoddib2bq9zz774x1gaf1ueywnogxq9fm05jabk.png" height="120" width="120" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/70036575?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://www.javascriptjam.com/content/images/2022/12/606218911befc219510548a5_Group-prdgoddib2bq9zz774x1gaf1ueywnogxq9fm05jabk.png" height="120" width="120" /></td>
   </tr>
 </table>
 
@@ -62,8 +62,8 @@
     <th><a href="https://discord.gg/jg8UvXpMjS"><b>Lunch.dev</b></a></th>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/76407473?s=200&v=4" height="120" width="120" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/76407473?s=200&v=4" height="120" width="120" /></td>
   </tr>
 </table>
 
