@@ -58,24 +58,24 @@
 <br>
 <table align="center">
   <tr>
-    <th><a href="https://quicknode.com/"><b>QuickNode</b></a></th>
     <th><a href="https://discord.gg/jg8UvXpMjS"><b>Lunch.dev</b></a></th>
+    <th><a href="https://slinkity.dev/"><b>Slinkity</b></a></th>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" height="120" width="120" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/76407473?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/89559275?s=200&v=4" height="120" width="120" /></td>
   </tr>
 </table>
 
 <br>
 <table align="center">
   <tr>
+    <th><a href="https://quicknode.com/"><b>QuickNode</b></a></th>
     <th><a href="https://stepzen.com/"><b>StepZen</b></a></th>
-    <th><a href="https://slinkity.dev/"><b>Slinkity</b></a></th>
   </tr>
   <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" height="120" width="120" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/78568488?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/89559275?s=200&v=4" height="120" width="120" /></td>
   </tr>
 </table>
 
