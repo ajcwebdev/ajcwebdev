@@ -85,17 +85,18 @@
   <li><a href="#what-do-i-do">What Do I Do?</a></li>
   <li><a href="#tutorials">Tutorials</a></li>
   <ul>
-    <li><a href="#web3">Web3</a></li>
     <li><a href="#frameworks-and-build-tools">Frameworks and Build Tools</a></li>
     <li><a href="#deployment-and-devops">Deployment and DevOps</a></li>
+    <li><a href="#web3">Web3</a></li>
   </ul>
 </ul>
 <ul>
   <li><a href="#podcasts">Podcasts</a></li>
   <li><a href="#videos">Videos</a></li>
   <ul>
-    <li><a href="#quicknode">QuickNode</a></li>
+    <li><a href="#ajc-and-the-web-devs">AJC and the Web Devs</a></li>
     <li><a href="#redwoodjs">RedwoodJS</a></li>
+    <li><a href="#quicknode-and-web3">QuickNode and Web3</a></li>
     <li><a href="#stepzen-and-graphql">StepZen and GraphQL</a></li>
     <li><a href="#other-talks">Other Talks</a></li>
   </ul>
@@ -117,19 +118,6 @@
 ## Tutorials
 
 I write words to explain stuff about things.
-
-### Web3
-
-<details>
-  <summary>Click to see tutorials on web3</summary><br>
-
-  | Blog                                                                                                                   | Repo                                                                  |
-  | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-  | [A First Look at IPFS](https://ajcwebdev.com/a-first-look-at-ipfs)                                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/ipfs)      |
-  | [A First Look at Avalanche](https://ajcwebdev.com/how-to-create-a-dapp-on-avalanches-fuji-testnet-with-quicknode)      | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/avalanche) |
-  | [Storing NFT Information Off-Chain with Fauna](https://ajcwebdev.com/storing-nft-information-off-chain-with-fauna)     | TODO                                                                  |
-  | [A First Look at Ethers and Hardhat](https://ajcwebdev.com/a-first-look-at-ethers-and-hardhat)                         | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/ethers)    |
-</details>
 
 ### Frameworks and Build Tools
 
@@ -172,6 +160,19 @@ I write words to explain stuff about things.
   | [A First Look at AWS CDK](https://dev.to/ajcwebdev/a-first-look-at-aws-cdk-2036)                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/cdk)              |
   | [A First Look at Cloudflare Workers](https://ajcwebdev.com/a-first-look-at-cloudflare-workers)                       | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/workers)          |
   | [A First Look at Cloudflare Pages](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-pages-2a5h)                   | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/cfpages)          |
+</details>
+
+### Web3
+
+<details>
+  <summary>Click to see tutorials on web3</summary><br>
+
+  | Blog                                                                                                                   | Repo                                                                  |
+  | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+  | [A First Look at IPFS](https://ajcwebdev.com/a-first-look-at-ipfs)                                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/ipfs)      |
+  | [A First Look at Avalanche](https://ajcwebdev.com/how-to-create-a-dapp-on-avalanches-fuji-testnet-with-quicknode)      | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/avalanche) |
+  | [Storing NFT Information Off-Chain with Fauna](https://ajcwebdev.com/storing-nft-information-off-chain-with-fauna)     | TODO                                                                  |
+  | [A First Look at Ethers and Hardhat](https://ajcwebdev.com/a-first-look-at-ethers-and-hardhat)                         | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/ethers)    |
 </details>
 
 ## Podcasts
@@ -221,23 +222,6 @@ I say words to explain stuff about things but also with images this time.
   | 2022-08-22 | Ben Myers     | [Social Cards](https://www.youtube.com/watch?v=zSnKSlZLY-A)          |
 </details>
 
-### QuickNode
-
-<details>
-  <summary>Click to see QuickNode videos</summary><br>
-
-  | Date       | Location             | Talk                                                                                                         |
-  | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------ |
-  | 2022-07-29 | Composability Summit | [A Crash Course in web3 for web2 Developers](https://www.youtube.com/watch?v=kl5nNRKemkY)                    |
-  | 2022-07-28 | QuickStreams         | [Using icy.tools, GraphQL, and Remix to Build an NFT Dashboard](https://www.youtube.com/watch?v=V3l8W3xQ3gQ) |
-  | 2022-07-07 | Jamstack Boston      | [Web3 is Jamstack by Default](https://www.youtube.com/watch?app=desktop&v=mGeBVj6Mve0)                       |
-  | 2022-07-06 | PurrfectDev          | [QuickNode Builds Infrastructure for the Future](https://www.youtube.com/watch?v=_eI89jkGdSU)                |
-  | 2022-06-01 | QuickStreams         | [Taking Astro to the Moon with QuickNode](https://www.youtube.com/watch?v=0CGxaQ2xKtg)                       |
-  | 2022-05-31 | Codementors          | [A First Look at Deploying Smart Contracts on Avalanche](https://www.youtube.com/watch?v=RvvMWGPJVUI)        |
-  | 2022-05-15 | QuickStreams         | [A First Look at Avalanche](https://www.youtube.com/watch?v=r2GIxZ1KMQE)                                     |
-  | 2022-04-29 | ETHAmsterdam         | [Optimistic Rollups and Sidechains](https://www.youtube.com/watch?v=xtLmrKsFPvg)                             |
-</details>
-
 ### RedwoodJS
 
 <details>
@@ -261,6 +245,23 @@ I say words to explain stuff about things but also with images this time.
   | 2020-09-05 | Jamstack Denver  | [A First Look at RedwoodJS](https://www.youtube.com/watch?v=0krdC_D42IU)                                                          |
 </details>
 
+### QuickNode and Web3
+
+<details>
+  <summary>Click to see QuickNode videos</summary><br>
+
+  | Date       | Location             | Talk                                                                                                         |
+  | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------ |
+  | 2022-07-29 | Composability Summit | [A Crash Course in web3 for web2 Developers](https://www.youtube.com/watch?v=kl5nNRKemkY)                    |
+  | 2022-07-28 | QuickStreams         | [Using icy.tools, GraphQL, and Remix to Build an NFT Dashboard](https://www.youtube.com/watch?v=V3l8W3xQ3gQ) |
+  | 2022-07-07 | Jamstack Boston      | [Web3 is Jamstack by Default](https://www.youtube.com/watch?app=desktop&v=mGeBVj6Mve0)                       |
+  | 2022-07-06 | PurrfectDev          | [QuickNode Builds Infrastructure for the Future](https://www.youtube.com/watch?v=_eI89jkGdSU)                |
+  | 2022-06-01 | QuickStreams         | [Taking Astro to the Moon with QuickNode](https://www.youtube.com/watch?v=0CGxaQ2xKtg)                       |
+  | 2022-05-31 | Codementors          | [A First Look at Deploying Smart Contracts on Avalanche](https://www.youtube.com/watch?v=RvvMWGPJVUI)        |
+  | 2022-05-15 | QuickStreams         | [A First Look at Avalanche](https://www.youtube.com/watch?v=r2GIxZ1KMQE)                                     |
+  | 2022-04-29 | ETHAmsterdam         | [Optimistic Rollups and Sidechains](https://www.youtube.com/watch?v=xtLmrKsFPvg)                             |
+</details>
+
 ### StepZen and GraphQL
 
 <details>
@@ -269,7 +270,7 @@ I say words to explain stuff about things but also with images this time.
   | Date       | Guest/Location   | Episode                                                                                                                           |
   | ---------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
   | 2022-03-30 | PurrfectDev      | [Managing Multiple Data Sources in GraphQL](https://www.youtube.com/watch?v=-NcWWkfPcSM)                                          |
-  | 2022-01-10 | Practical Dev    | [Walkthrough Wednesday with Anthony Campolo](https://www.youtube.com/watch?v=pwO_dTYUFT8)                                        |
+  | 2022-01-10 | Practical Dev    | [Walkthrough Wednesday with Anthony Campolo](https://www.youtube.com/watch?v=pwO_dTYUFT8)                                         |
   | 2022-01-06 | StepZen Stream   | [Analyze Sentiment of Dev.to Blog Comments with Google's Cloud Natural Language API](https://www.youtube.com/watch?v=O06cdhlYZVM) |
   | 2021-12-22 | Frontend Horse   | [Integrating APIs with StepZen GraphQL Studio](https://www.youtube.com/watch?v=17VYX2AW4Jg)                                       |
   | 2021-11-05 | Alex Trost       | [Connecting to Prismic's REST API with StepZen](https://www.youtube.com/watch?v=69MtoZrvKts)                                      |
