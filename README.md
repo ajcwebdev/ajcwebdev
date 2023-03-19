@@ -126,6 +126,9 @@ I write words to explain stuff about things.
 
   | Blog                                                                                                                           | Repo                                                                      |
   | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+  | [A First Look at tRPC](https://ajcwebdev.com/2023/03/08/2023-03-08-a-first-look-at-trpc/)                                      | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/trpc)          |
+  | [A First Look at SolidStart](https://ajcwebdev.com/2022/11/20/a-first-look-at-solidstart/)                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/solidstart)    |
+  | [A First Look at create-t3-app](https://ajcwebdev.com/2022/08/13/a-first-look-at-create-t3-app/)                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/t3)            |
   | [A First Look at Astro](https://ajcwebdev.com/a-first-look-at-astro)                                                           | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/astro)         |
   | [A First Look at Oak](https://ajcwebdev.com/a-first-look-at-oak)                                                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/oak)           |
   | [A First Look at Nuxt 3](https://ajcwebdev.com/a-first-look-at-nuxt-3)                                                         | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/nuxt3)         |
