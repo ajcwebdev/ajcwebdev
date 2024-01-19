@@ -146,23 +146,23 @@ I write words to explain stuff about things.
 <details>
   <summary>Click to see tutorials on deployment and DevOps</summary><br>
 
-  | Blog                                                                                                                 | Repo                                                                         |
-  | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-  | [A First Look at Pulumi](https://ajcwebdev.com/a-first-look-at-pulumi)                                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/pulumi)           |
-  | [A First Look at AWS Fargate](https://ajcwebdev.com/a-first-look-at-aws-fargate)                                     | TODO                                                                         |
-  | [A First Look at Serverless Cloud](https://dev.to/ajcwebdev/a-first-look-at-serverless-cloud-3e18)                   | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/serverless-cloud) |
-  | [A First Look at Fly](https://dev.to/ajcwebdev/a-first-look-at-fly-3a87)                                             | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/fly)              |
-  | [A First Look at GitHub Actions](https://ajcwebdev.com/a-first-look-at-github-actions)                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/actions)          |
-  | [A First Look at PostGraphile with Railway](https://dev.to/ajcwebdev/a-first-look-at-postgraphile-with-railway-1k9d) | TODO                                                                         |
-  | [A First Look at Docker](https://ajcwebdev.com/a-first-look-at-docker)                                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/docker)           |
-  | [A First Look at Azure Functions](https://dev.to/ajcwebdev/a-first-look-at-azure-functions-i6f)                      | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/azure)            |
-  | [A First Look at Serverless Framework](https://dev.to/ajcwebdev/a-first-look-at-the-serverless-framework-3okh)       | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/serverless)       |
-  | [A First Look at Architect](https://dev.to/ajcwebdev/a-first-look-at-architect-5768)                                 | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/architect)        |
-  | [A First Look at Amplify with Vite](https://dev.to/ajcwebdev/a-first-look-at-amplify-with-vite-1g7j)                 | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/amplify)          |
-  | [A First Look at AWS SAM](https://dev.to/ajcwebdev/a-first-look-at-aws-sam-478c)                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/sam)              |
-  | [A First Look at AWS CDK](https://dev.to/ajcwebdev/a-first-look-at-aws-cdk-2036)                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/cdk)              |
-  | [A First Look at Cloudflare Workers](https://ajcwebdev.com/a-first-look-at-cloudflare-workers)                       | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/workers)          |
-  | [A First Look at Cloudflare Pages](https://dev.to/ajcwebdev/a-first-look-at-cloudflare-pages-2a5h)                   | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/cfpages)          |
+  | Blog                                                                                                     | Repo                                                                         |
+  | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+  | [A First Look at Pulumi](https://ajcwebdev.com/first-look-pulumi/)                                       | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/pulumi)           |
+  | [A First Look at AWS Fargate](https://ajcwebdev.com/first-look-aws-fargate/)                             | TODO                                                                         |
+  | [A First Look at Serverless Cloud](https://ajcwebdev.com/first-look-serverless-cloud/)                   | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/serverless-cloud) |
+  | [A First Look at Fly](https://ajcwebdev.com/first-look-fly/)                                             | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/fly)              |
+  | [A First Look at GitHub Actions](https://ajcwebdev.com/first-look-github-actions/)                       | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/actions)          |
+  | [A First Look at PostGraphile with Railway](https://ajcwebdev.com/first-look-postgraphile-with-railway/) | TODO                                                                         |
+  | [A First Look at Docker](https://ajcwebdev.com/first-look-docker/)                                       | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/docker)           |
+  | [A First Look at Azure Functions](https://ajcwebdev.com/first-look-azure-functions/)                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/azure)            |
+  | [A First Look at Serverless Framework](https://ajcwebdev.com/first-look-serverless-framework/)           | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/serverless)       |
+  | [A First Look at Architect](https://ajcwebdev.com/first-look-architect/)                                 | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/architect)        |
+  | [A First Look at Amplify with Vite](https://ajcwebdev.com/first-look-amplify-with-vite/)                 | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/amplify)          |
+  | [A First Look at AWS SAM](https://ajcwebdev.com/first-look-aws-sam/)                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/sam)              |
+  | [A First Look at AWS CDK](https://ajcwebdev.com/first-look-aws-cdk/)                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/cdk)              |
+  | [A First Look at Cloudflare Workers](https://ajcwebdev.com/first-look-cloudflare-workers/)               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/workers)          |
+  | [A First Look at Cloudflare Pages](https://ajcwebdev.com/first-look-cloudflare-pages/)                   | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/cfpages)          |
 </details>
 
 ### Web3
@@ -170,12 +170,12 @@ I write words to explain stuff about things.
 <details>
   <summary>Click to see tutorials on web3</summary><br>
 
-  | Blog                                                                                                                   | Repo                                                                  |
-  | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-  | [A First Look at IPFS](https://ajcwebdev.com/a-first-look-at-ipfs)                                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/ipfs)      |
-  | [A First Look at Avalanche](https://ajcwebdev.com/how-to-create-a-dapp-on-avalanches-fuji-testnet-with-quicknode)      | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/avalanche) |
-  | [Storing NFT Information Off-Chain with Fauna](https://ajcwebdev.com/storing-nft-information-off-chain-with-fauna)     | TODO                                                                  |
-  | [A First Look at Ethers and Hardhat](https://ajcwebdev.com/a-first-look-at-ethers-and-hardhat)                         | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/ethers)    |
+  | Blog                                                                                                                                                | Repo                                                                  |
+  | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+  | [A First Look at IPFS](https://ajcwebdev.com/first-look-ipfs/)                                                                                      | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/ipfs)      |
+  | [A First Look at Avalanche](https://www.quicknode.com/guides/other-chains/avalanche/how-to-create-a-dapp-on-avalanches-fuji-testnet-with-quicknode) | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/avalanche) |
+  | [Storing NFT Information Off-Chain with Fauna](https://ajcwebdev.com/storing-nft-information-with-fauna/)                                           | TODO                                                                  |
+  | [A First Look at Ethers and Hardhat](https://ajcwebdev.com/first-look-ethers-and-hardhat/)                                                          | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/ethers)    |
 </details>
 
 ## Podcasts
