@@ -124,21 +124,21 @@ I write words to explain stuff about things.
 <details>
   <summary>Click to see tutorials on frameworks and build tools</summary><br>
 
-  | Blog                                                                                                                           | Repo                                                                      |
-  | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-  | [A First Look at tRPC](https://ajcwebdev.com/2023/03/08/2023-03-08-a-first-look-at-trpc/)                                      | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/trpc)          |
-  | [A First Look at SolidStart](https://ajcwebdev.com/2022/11/20/a-first-look-at-solidstart/)                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/solidstart)    |
-  | [A First Look at create-t3-app](https://ajcwebdev.com/2022/08/13/a-first-look-at-create-t3-app/)                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/t3)            |
-  | [A First Look at Astro](https://ajcwebdev.com/a-first-look-at-astro)                                                           | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/astro)         |
-  | [A First Look at Oak](https://ajcwebdev.com/a-first-look-at-oak)                                                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/oak)           |
-  | [A First Look at Nuxt 3](https://ajcwebdev.com/a-first-look-at-nuxt-3)                                                         | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/nuxt3)         |
-  | [A First Look at GraphQL Helix](https://ajcwebdev.com/a-first-look-at-graphql-helix)                                           | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/graphql-helix) |
-  | [A First Look at KeystoneJS](https://dev.to/ajcwebdev/a-first-look-at-keystonejs-267m)                                         | TODO                                                                      |
-  | [A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)                                              | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/slinkity)      |
-  | [A First Look at React 18 with Vite and Netlify](https://dev.to/ajcwebdev/a-first-look-at-react-18-with-vite-and-netlify-5411) | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/react18)       |
-  | [A First Look at Remix](https://ajcwebdev.com/a-first-look-at-remix)                                                           | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/remix)         |
-  | [A First Look at Vite](https://ajcwebdev.com/a-first-look-at-vite)                                                             | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/vite)          |
-  | [A First Look at SvelteKit](https://ajcwebdev.com/a-first-look-at-sveltekit)                                                   | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/sveltekit)     |
+  | Blog                                                                                                           | Repo                                                                      |
+  | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+  | [A First Look at tRPC](https://ajcwebdev.com/first-look-trpc/)                                                 | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/trpc)          |
+  | [A First Look at SolidStart](https://ajcwebdev.com/first-look-solidstart/)                                     | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/solidstart)    |
+  | [A First Look at create-t3-app](https://ajcwebdev.com/first-look-create-t3-app/)                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/t3)            |
+  | [A First Look at Astro](https://ajcwebdev.com/first-look-astro/)                                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/astro)         |
+  | [A First Look at Oak](https://ajcwebdev.com/first-look-oak/)                                                   | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/oak)           |
+  | [A First Look at Nuxt 3](https://ajcwebdev.com/first-look-nuxt-3/)                                             | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/nuxt3)         |
+  | [A First Look at GraphQL Helix](https://ajcwebdev.com/first-look-gql-helix/)                                   | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/graphql-helix) |
+  | [A First Look at KeystoneJS](https://ajcwebdev.com/first-look-keystonejs/)                                     | TODO                                                                      |
+  | [A First Look at Slinkity](https://ajcwebdev.com/first-look-slinkity/)                                         | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/slinkity)      |
+  | [A First Look at React 18 with Vite/Netlify](https://ajcwebdev.com/first-look-react-18-with-vite-and-netlify/) | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/react18)       |
+  | [A First Look at Remix](https://ajcwebdev.com/first-look-remix/)                                               | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/remix)         |
+  | [A First Look at Vite](https://ajcwebdev.com/first-look-vite/)                                                 | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/vite)          |
+  | [A First Look at SvelteKit](https://ajcwebdev.com/first-look-sveltekit/)                                       | [Repo](https://github.com/ajcwebdev/a-first-look/tree/main/sveltekit)     |
 </details>
 
 ### Deployment and DevOps
