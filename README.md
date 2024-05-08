@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  I'm a Developer Advocate, a member of the <a href="https://redwoodjs.com/">RedwoodJS</a> core team, and co-host of the <a href="https://fsjam.org/">FSJam Podcast</a>. Other projects I've worked on include <a href="https://edg.io/">Edgio</a>, <a href="https://quicknode.com/">QuickNode</a>, <a href="https://stepzen.com/">StepZen</a>, <a href="https://slinkity.dev/">Slinkity</a>, and <a href="https://opensauced.pizza/">Open Sauced</a>, and <a href="https://www.javascriptjam.com/">JavaScript Jam</a>. In my spare time I impersonate a parakeet and hang out on X Spaces.
+  I'm a Developer Advocate, a member of the <a href="https://redwoodjs.com/">RedwoodJS</a> core team, and co-host of the <a href="https://fsjam.org/">FSJam Podcast</a>. Other projects I've worked on include <a href="https://edg.io/">Edgio</a>, <a href="https://quicknode.com/">QuickNode</a>, <a href="https://stepzen.com/">StepZen</a>, <a href="https://slinkity.dev/">Slinkity</a>, <a href="https://opensauced.pizza/">Open Sauced</a>, and <a href="https://www.javascriptjam.com/">JavaScript Jam</a>. In my spare time I impersonate a parakeet and hang out on X Spaces.
 </p>
 
 <br>
