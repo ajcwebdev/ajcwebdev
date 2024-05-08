@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  I'm a Developer Advocate, a member of the <a href="https://redwoodjs.com/">RedwoodJS</a> core team, and co-host of the <a href="https://fsjam.org/">FSJam Podcast</a>. Other projects I've worked on include <a href="https://edg.io/">Edgio</a>, <a href="https://quicknode.com/">QuickNode</a>, <a href="https://stepzen.com/">StepZen</a>, <a href="https://slinkity.dev/">Slinkity</a>, <a href="https://opensauced.pizza/">Open Sauced</a>, and <a href="https://www.javascriptjam.com/">JavaScript Jam</a>. In my spare time I impersonate a parakeet and hang out on X Spaces.
+  I'm a Developer Advocate, a member of the <a href="https://redwoodjs.com/">RedwoodJS</a> core team, and co-host of the <a href="https://fsjam.org/">FSJam Podcast</a>. Other projects I've worked on include <a href="https://edg.io/">Edgio</a>, <a href="https://quicknode.com/">QuickNode</a>, <a href="https://stepzen.com/">StepZen</a>, <a href="https://slinkity.dev/">Slinkity</a>, <a href="https://opensauced.pizza/">Open Sauced</a>, and <a href="https://www.javascriptjam.com/">JavaScript Jam</a>.
 </p>
 
 <br>
@@ -26,12 +26,12 @@
   <tr>
     <th><a href="https://fsjam.org/"><b>FSJam</b></a></th>
     <th><a href="https://www.javascriptjam.com/"><b>JavaScript Jam</b></a></th>
-    <th><a href="https://teachjenntech.com/"><b>Teach Jenn Tech</b></a></th>
+    <th><a href="https://github.com/teach-jenn-tech"><b>Teach Jenn Tech</b></a></th>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/70036575?s=200&v=4" height="120" width="120" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/142181701?s=200&v=4" height="120" width="120" /</td>
-    <td><img src="https://avatars.githubusercontent.com/u/77285384?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://ajc.pics/icons/tjt-200x200.png" height="120" width="120" /></td>
   </tr>
 </table>
 
