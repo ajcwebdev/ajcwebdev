@@ -10,11 +10,13 @@
 
 <table align="center">
   <tr>
-    <th><a href="https://edg.io"><b>Edgio</b></a></th>
     <th><a href="https://redwoodjs.com/"><b>Redwood</b></a></th>
+    <th><a href="https://slinkity.dev/"><b>Slinkity</b></a></th>
+    <th><a href="https://opensauced.pizza/"><b>Open Sauced</b></a></th>
   </tr>
-    <td><img src="https://avatars.githubusercontent.com/u/1184657?s=200&v=4" height="120" width="120" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/45050444?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/89559275?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/57568598?s=200&v=4" height="120" width="120" /></td>
   <tr>
   </tr>
 </table>
@@ -24,33 +26,11 @@
   <tr>
     <th><a href="https://fsjam.org/"><b>FSJam</b></a></th>
     <th><a href="https://www.javascriptjam.com/"><b>JavaScript Jam</b></a></th>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/70036575?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://www.javascriptjam.com/content/images/2022/12/606218911befc219510548a5_Group-prdgoddib2bq9zz774x1gaf1ueywnogxq9fm05jabk.png" height="120" width="120" /></td>
-  </tr>
-</table>
-
-<br>
-<table align="center">
-  <tr>
-    <th><a href="https://create.t3.gg/"><b>create-t3-app</b></a></th>
-    <th><a href="https://opensauced.pizza/"><b>Open Sauced</b></a></th>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/57568598?s=200&v=4" height="120" width="120" /></td>
-  </tr>
-</table>
-
-<br>
-<table align="center">
-  <tr>
-    <th><a href="https://showmy.chat/"><b>showmy.chat</b></a></th>
     <th><a href="https://teachjenntech.com/"><b>Teach Jenn Tech</b></a></th>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/75396380?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/70036575?s=200&v=4" height="120" width="120" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/142181701?s=200&v=4" height="120" width="120" /</td>
     <td><img src="https://avatars.githubusercontent.com/u/77285384?s=200&v=4" height="120" width="120" /></td>
   </tr>
 </table>
@@ -58,22 +38,12 @@
 <br>
 <table align="center">
   <tr>
-    <th><a href="https://discord.gg/jg8UvXpMjS"><b>Lunch.dev</b></a></th>
-    <th><a href="https://slinkity.dev/"><b>Slinkity</b></a></th>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/76407473?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/89559275?s=200&v=4" height="120" width="120" /></td>
-  </tr>
-</table>
-
-<br>
-<table align="center">
-  <tr>
+    <th><a href="https://edg.io"><b>Edgio</b></a></th>
     <th><a href="https://quicknode.com/"><b>QuickNode</b></a></th>
     <th><a href="https://stepzen.com/"><b>StepZen</b></a></th>
   </tr>
   <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/1184657?s=200&v=4" height="120" width="120" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" height="120" width="120" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/78568488?s=200&v=4" height="120" width="120" /></td>
   </tr>
