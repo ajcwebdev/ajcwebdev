@@ -6,49 +6,6 @@
   I'm a Developer Advocate, a member of the <a href="https://redwoodjs.com/">RedwoodJS</a> core team, and co-host of the <a href="https://fsjam.org/">FSJam Podcast</a>. Other projects I've worked on include <a href="https://edg.io/">Edgio</a>, <a href="https://quicknode.com/">QuickNode</a>, <a href="https://stepzen.com/">StepZen</a>, <a href="https://slinkity.dev/">Slinkity</a>, <a href="https://opensauced.pizza/">Open Sauced</a>, and <a href="https://www.javascriptjam.com/">JavaScript Jam</a>.
 </p>
 
-<br>
-
-<table align="center">
-  <tr>
-    <th><a href="https://redwoodjs.com/"><b>Redwood</b></a></th>
-    <th><a href="https://slinkity.dev/"><b>Slinkity</b></a></th>
-    <th><a href="https://opensauced.pizza/"><b>Open Sauced</b></a></th>
-  </tr>
-    <td><img src="https://avatars.githubusercontent.com/u/45050444?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/89559275?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/57568598?s=200&v=4" height="120" width="120" /></td>
-  <tr>
-  </tr>
-</table>
-
-<br>
-<table align="center">
-  <tr>
-    <th><a href="https://fsjam.org/"><b>FSJam</b></a></th>
-    <th><a href="https://www.javascriptjam.com/"><b>JavaScript Jam</b></a></th>
-    <th><a href="https://github.com/teach-jenn-tech"><b>Teach Jenn Tech</b></a></th>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/70036575?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/142181701?s=200&v=4" height="120" width="120" /</td>
-    <td><img src="https://ajc.pics/icons/tjt-200x200.png" height="120" width="120" /></td>
-  </tr>
-</table>
-
-<br>
-<table align="center">
-  <tr>
-    <th><a href="https://edg.io"><b>Edgio</b></a></th>
-    <th><a href="https://quicknode.com/"><b>QuickNode</b></a></th>
-    <th><a href="https://stepzen.com/"><b>StepZen</b></a></th>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/1184657?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" height="120" width="120" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/78568488?s=200&v=4" height="120" width="120" /></td>
-  </tr>
-</table>
-
 <h2>Outline</h2>
 
 <ul>
