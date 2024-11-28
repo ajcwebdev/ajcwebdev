@@ -236,10 +236,4 @@ I say words to explain stuff about things but also with images this time.
   | 2020-10-06 | Paris Deno                  | [Deno Crate Organization](https://www.youtube.com/watch?v=AOvg_GbnsbA)                                        |
 </details>
 
-## Sponsors
-
-| [Brian Dougie](https://github.com/bdougie)                                          |
-| ----------------------------------------------------------------------------------- |
-| ![Brian Douglas Avatar](https://avatars0.githubusercontent.com/u/5713670?s=200&v=4) |
-
 [![Anthony Campolo's most used programming languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ajcwebdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
